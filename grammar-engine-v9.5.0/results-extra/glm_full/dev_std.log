@@ -1,0 +1,103 @@
+(node:1418) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/z/my-project/scripts/glm_score.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/z/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+rows=251 limit=251 alreadyDone=0
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 0)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 2)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 1)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 0)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 2)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 1)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 1)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 2)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 0)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 1)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 0)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async ask (file:///home/z/my-project/scripts/glm_score.js:47:19)
+    at async worker (file:///home/z/my-project/scripts/glm_score.js:82:18)
+    at async Promise.all (index 2)
+    at async file:///home/z/my-project/scripts/glm_score.js:88:3
+(node:1519) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/z/my-project/scripts/glm_patient.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/z/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+rows=251 done=0 prompt=minimal
+Failed to make API request: Error: API request failed with status 429: {"error":"Too many requests, please try again later"}
+    at ZAI.createChatCompletion (file:///home/z/node_modules/z-ai-web-dev-sdk/dist/index.js:103:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async file:///home/z/my-project/scripts/glm_patient.js:41:17
+err idx=0 429=true wait=20000ms consec=1
+(node:2344) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/z/my-project/scripts/glm_patient.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/z/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)

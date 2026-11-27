@@ -1,0 +1,1 @@
+{"epoch": 6, "dev_metrics": {"precision": 0.12295081967213115, "recall": 0.26785714285714285, "f05": 0.13786764705882354, "tp": 30, "fp": 214, "fn": 82, "false_alert_rate": 0.6071428571428571, "clean_n": 140, "err_n": 111, "err_fully_corrected": 0.26126126126126126}}

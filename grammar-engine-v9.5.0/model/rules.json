@@ -1,0 +1,1117 @@
+{
+"rules": [
+{
+"id": "sva_sing_base",
+"re": "\\b(she|he|it) (answer|arrive|ask|attend|become|begin|book|borrow|bring|build|buy|call|cancel|check|close|collect|come|complete|confirm|deliver|drive|eat|explain|feel|file|find|finish|follow|give|grow|help|hold|install|join|keep|know|lead|learn|like|live|look|lose|make|meet|move|need|open|pass|perform|play|practise|prefer|print|reach|read|receive|rehearse|report|return|review|run|say|see|seem|send|share|sign|sing|sit|sleep|speak|spend|stand|start|study|submit|take|talk|teach|tell|think|train|travel|understand|use|visit|walk|want|win|work|write)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"answer": "answers",
+"arrive": "arrives",
+"ask": "asks",
+"attend": "attends",
+"become": "becomes",
+"begin": "begins",
+"book": "books",
+"borrow": "borrows",
+"bring": "brings",
+"build": "builds",
+"buy": "buys",
+"call": "calls",
+"cancel": "cancels",
+"check": "checks",
+"close": "closes",
+"collect": "collects",
+"come": "comes",
+"complete": "completes",
+"confirm": "confirms",
+"deliver": "delivers",
+"drive": "drives",
+"eat": "eats",
+"explain": "explains",
+"feel": "feels",
+"file": "files",
+"find": "finds",
+"finish": "finishes",
+"follow": "follows",
+"give": "gives",
+"grow": "grows",
+"help": "helps",
+"hold": "holds",
+"install": "installs",
+"join": "joins",
+"keep": "keeps",
+"know": "knows",
+"lead": "leads",
+"learn": "learns",
+"like": "likes",
+"live": "lives",
+"look": "looks",
+"lose": "loses",
+"make": "makes",
+"meet": "meets",
+"move": "moves",
+"need": "needs",
+"open": "opens",
+"pass": "passes",
+"perform": "performs",
+"play": "plays",
+"practise": "practises",
+"prefer": "prefers",
+"print": "prints",
+"reach": "reaches",
+"read": "reads",
+"receive": "receives",
+"rehearse": "rehearses",
+"report": "reports",
+"return": "returns",
+"review": "reviews",
+"run": "runs",
+"say": "says",
+"see": "sees",
+"seem": "seems",
+"send": "sends",
+"share": "shares",
+"sign": "signs",
+"sing": "sings",
+"sit": "sits",
+"sleep": "sleeps",
+"speak": "speaks",
+"spend": "spends",
+"stand": "stands",
+"start": "starts",
+"study": "studies",
+"submit": "submits",
+"take": "takes",
+"talk": "talks",
+"teach": "teaches",
+"tell": "tells",
+"think": "thinks",
+"train": "trains",
+"travel": "travels",
+"understand": "understands",
+"use": "uses",
+"visit": "visits",
+"walk": "walks",
+"want": "wants",
+"win": "wins",
+"work": "works",
+"write": "writes"
+}
+},
+"type": "sva"
+},
+{
+"id": "sva_plur_s3",
+"re": "\\b(they|we|you|i) (answers|arrives|asks|attends|becomes|begins|books|borrows|brings|builds|buys|calls|cancels|checks|closes|collects|comes|completes|confirms|delivers|drives|eats|explains|feels|files|finds|finishes|follows|gives|grows|helps|holds|installs|joins|keeps|knows|leads|learns|likes|lives|looks|loses|makes|meets|moves|needs|opens|passes|performs|plays|practises|prefers|prints|reaches|reads|receives|rehearses|reports|returns|reviews|runs|says|seems|sees|sends|shares|signs|sings|sits|sleeps|speaks|spends|stands|starts|studies|submits|takes|talks|teaches|tells|thinks|trains|travels|understands|uses|visits|walks|wants|wins|works|writes)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"answers": "answer",
+"arrives": "arrive",
+"asks": "ask",
+"attends": "attend",
+"becomes": "become",
+"begins": "begin",
+"books": "book",
+"borrows": "borrow",
+"brings": "bring",
+"builds": "build",
+"buys": "buy",
+"calls": "call",
+"cancels": "cancel",
+"checks": "check",
+"closes": "close",
+"collects": "collect",
+"comes": "come",
+"completes": "complete",
+"confirms": "confirm",
+"delivers": "deliver",
+"drives": "drive",
+"eats": "eat",
+"explains": "explain",
+"feels": "feel",
+"files": "file",
+"finds": "find",
+"finishes": "finish",
+"follows": "follow",
+"gives": "give",
+"grows": "grow",
+"helps": "help",
+"holds": "hold",
+"installs": "install",
+"joins": "join",
+"keeps": "keep",
+"knows": "know",
+"leads": "lead",
+"learns": "learn",
+"likes": "like",
+"lives": "live",
+"looks": "look",
+"loses": "lose",
+"makes": "make",
+"meets": "meet",
+"moves": "move",
+"needs": "need",
+"opens": "open",
+"passes": "pass",
+"performs": "perform",
+"plays": "play",
+"practises": "practise",
+"prefers": "prefer",
+"prints": "print",
+"reaches": "reach",
+"reads": "read",
+"receives": "receive",
+"rehearses": "rehearse",
+"reports": "report",
+"returns": "return",
+"reviews": "review",
+"runs": "run",
+"says": "say",
+"sees": "see",
+"seems": "seem",
+"sends": "send",
+"shares": "share",
+"signs": "sign",
+"sings": "sing",
+"sits": "sit",
+"sleeps": "sleep",
+"speaks": "speak",
+"spends": "spend",
+"stands": "stand",
+"starts": "start",
+"studies": "study",
+"submits": "submit",
+"takes": "take",
+"talks": "talk",
+"teaches": "teach",
+"tells": "tell",
+"thinks": "think",
+"trains": "train",
+"travels": "travel",
+"understands": "understand",
+"uses": "use",
+"visits": "visit",
+"walks": "walk",
+"wants": "want",
+"wins": "win",
+"works": "work",
+"writes": "write"
+}
+},
+"type": "sva"
+},
+{
+"id": "be_was_plural",
+"re": "\\b(they|we|you) (was)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"was": "were",
+"Was": "Were"
+}
+},
+"type": "sva"
+},
+{
+"id": "be_were_sing",
+"re": "\\b(she|he|it|this|that) (were)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"were": "was",
+"Were": "Was"
+}
+},
+"type": "sva"
+},
+{
+"id": "have_has",
+"re": "\\b(she|he|it) (have)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"have": "has",
+"Have": "Has"
+}
+},
+"type": "sva"
+},
+{
+"id": "has_have",
+"re": "\\b(they|we|you|i) (has)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"has": "have",
+"Has": "Have"
+}
+},
+"type": "sva"
+},
+{
+"id": "do_doesnt",
+"re": "\\b(she|he|it) (don't)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"don't": "doesn't",
+"Don't": "Doesn't"
+}
+},
+"type": "sva"
+},
+{
+"id": "does_dont",
+"re": "\\b(they|we|you|i) (doesn't)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"doesn't": "don't",
+"Doesn't": "Don't"
+}
+},
+"type": "sva"
+},
+{
+"id": "there_is_plural",
+"re": "\\bthere (is|was) (many|several|some|two|three|four|five|six|seven|eight|nine|ten|few|lots|people|children|students|things|issues)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"is": "are",
+"was": "were",
+"Is": "Are"
+}
+},
+"type": "sva"
+},
+{
+"id": "there_are_sing",
+"re": "\\bthere (are|were) (a|an|one|the)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"are": "is",
+"were": "was",
+"Are": "Is"
+}
+},
+"type": "sva"
+},
+{
+"id": "modal_past",
+"re": "\\b(?:can|will|should|would|must|might|could|cannot|can't|won't|shouldn't|wouldn't|mustn't) (ate|began|bought|broke|brought|built|came|caught|chose|drove|felt|forgot|found|gave|got|grew|held|kept|knew|lost|made|meant|met|ran|sang|saw|sent|slept|spent|spoke|swam|taught|told|took|went|won|wrote)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"went": "go",
+"saw": "see",
+"ate": "eat",
+"took": "take",
+"gave": "give",
+"wrote": "write",
+"ran": "run",
+"came": "come",
+"got": "get",
+"made": "make",
+"bought": "buy",
+"brought": "bring",
+"taught": "teach",
+"caught": "catch",
+"found": "find",
+"spoke": "speak",
+"swam": "swim",
+"sang": "sing",
+"won": "win",
+"lost": "lose",
+"sent": "send",
+"built": "build",
+"felt": "feel",
+"slept": "sleep",
+"knew": "know",
+"drove": "drive",
+"grew": "grow",
+"began": "begin",
+"chose": "choose",
+"broke": "break",
+"forgot": "forget",
+"met": "meet",
+"kept": "keep",
+"spent": "spend",
+"meant": "mean",
+"held": "hold",
+"told": "tell"
+}
+},
+"type": "verbform"
+},
+{
+"id": "dosupport_past",
+"re": "\\b(?:did|didn't|didnt|does|doesn't|doesnt|do|don't|dont) (ate|began|bought|broke|brought|built|came|caught|chose|drove|felt|forgot|found|gave|got|grew|held|kept|knew|lost|made|meant|met|ran|sang|saw|sent|slept|spent|spoke|swam|taught|told|took|went|won|wrote)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"went": "go",
+"saw": "see",
+"ate": "eat",
+"took": "take",
+"gave": "give",
+"wrote": "write",
+"ran": "run",
+"came": "come",
+"got": "get",
+"made": "make",
+"bought": "buy",
+"brought": "bring",
+"taught": "teach",
+"caught": "catch",
+"found": "find",
+"spoke": "speak",
+"swam": "swim",
+"sang": "sing",
+"won": "win",
+"lost": "lose",
+"sent": "send",
+"built": "build",
+"felt": "feel",
+"slept": "sleep",
+"knew": "know",
+"drove": "drive",
+"grew": "grow",
+"began": "begin",
+"chose": "choose",
+"broke": "break",
+"forgot": "forget",
+"met": "meet",
+"kept": "keep",
+"spent": "spend",
+"meant": "mean",
+"held": "hold",
+"told": "tell"
+}
+},
+"type": "verbform"
+},
+{
+"id": "have_pp",
+"re": "\\b(?:have|has|had) (ate|began|broke|came|chose|did|drove|forgot|gave|grew|knew|saw|spoke|took|went|wrote)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"went": "gone",
+"saw": "seen",
+"ate": "eaten",
+"took": "taken",
+"gave": "given",
+"wrote": "written",
+"did": "done",
+"spoke": "spoken",
+"broke": "broken",
+"forgot": "forgotten",
+"knew": "known",
+"grew": "grown",
+"began": "begun",
+"drove": "driven",
+"chose": "chosen",
+"came": "come"
+}
+},
+"type": "participle"
+},
+{
+"id": "contraction_apos",
+"re": "\\b(arent|cant|couldnt|couldve|didnt|doesnt|dont|hadnt|hasnt|havent|hed|hes|im|isnt|ive|lets|shes|shouldnt|shouldve|thats|theyll|theyre|theyve|wasnt|werent|weve|whats|whos|wont|wouldnt|wouldve|youd|youre|youve)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"dont": "don't",
+"doesnt": "doesn't",
+"didnt": "didn't",
+"cant": "can't",
+"wont": "won't",
+"isnt": "isn't",
+"arent": "aren't",
+"wasnt": "wasn't",
+"werent": "weren't",
+"couldnt": "couldn't",
+"shouldnt": "shouldn't",
+"wouldnt": "wouldn't",
+"havent": "haven't",
+"hasnt": "hasn't",
+"hadnt": "hadn't",
+"im": "I'm",
+"ive": "I've",
+"hes": "he's",
+"shes": "she's",
+"theyre": "they're",
+"youre": "you're",
+"lets": "let's",
+"thats": "that's",
+"whats": "what's",
+"whos": "who's",
+"theyll": "they'll",
+"theyve": "they've",
+"weve": "we've",
+"shouldve": "should've",
+"couldve": "could've",
+"wouldve": "would've",
+"youve": "you've",
+"youd": "you'd",
+"hed": "he'd"
+}
+},
+"type": "punct"
+},
+{
+"id": "their_is",
+"re": "\\b(their) (?:is|was)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"their": "there",
+"Their": "There"
+}
+},
+"type": "homophone"
+},
+{
+"id": "there_noun",
+"re": "\\b(there) (?:house|car|family|mother|father|dog|cat|book|job|parents|phone|room|office|garden|idea|report|money|homework|work)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"there": "their",
+"There": "Their"
+}
+},
+"type": "homophone"
+},
+{
+"id": "its_verb_ing",
+"re": "\\b(its) (?:raining|snowing|getting|going|becoming|freezing|boiling|working|looking|been|not|important|clear|possible|true|fine|great|hard|easy|okay|ok|too|so|very|just|really|time|the)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"its": "it's",
+"Its": "It's",
+"ITS": "IT's"
+}
+},
+"type": "homophone"
+},
+{
+"id": "its_a",
+"re": "\\b(its) (?:a|an|the|going to|not going to)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"its": "it's",
+"Its": "It's",
+"ITS": "IT's"
+}
+},
+"type": "homophone"
+},
+{
+"id": "your_ing",
+"re": "\\b(your) (?:going|coming|doing|being|not|welcome|right|wrong|late|tired|busy|very|so|too|just|really|the|a|an)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"your": "you're",
+"Your": "You're"
+}
+},
+"type": "homophone"
+},
+{
+"id": "youre_noun",
+"re": "\\b(you're) (?:house|car|family|mother|father|dog|cat|name|book|job|money|parents|phone|room|office|garden|idea)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"you're": "your",
+"You're": "Your"
+}
+},
+"type": "homophone"
+},
+{
+"id": "then_after_comp",
+"re": "\\b(?:better|worse|easier|faster|harder|cheaper|bigger|smaller|larger|older|younger|nicer|cleaner|quicker|greater|stronger|weaker|taller|shorter|longer|more|less|rather|other|no sooner) (then)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"then": "than",
+"Then": "Than"
+}
+},
+"type": "homophone"
+},
+{
+"id": "to_adj",
+"re": "\\b(to) (much|many|late|early|long|short|old|young|big|small|hot|cold|slow|fast|tired|busy|soon|expensive|cheap|difficult|easy|hard|loud|quiet|full|empty|heavy|light|far|close|bright|dark)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"to": "too",
+"To": "Too"
+}
+},
+"type": "homophone"
+},
+{
+"id": "modal_of",
+"re": "\\b(?:could|should|would|must|might|can|will) (of)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"of": "have",
+"Of": "Have"
+}
+},
+"type": "homophone"
+},
+{
+"id": "modalnt_of",
+"re": "\\b(?:could|should|would|must|might)n't (of)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"of": "have",
+"Of": "Have"
+}
+},
+"type": "homophone"
+},
+{
+"id": "everyday_start",
+"re": "\\b(everyday) (?:i|we|they|he|she|it|you)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"everyday": "every day",
+"Everyday": "Every day"
+}
+},
+"type": "homophone"
+},
+{
+"id": "weather_decide",
+"re": "\\b(weather) (?:or not|to)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"weather": "whether",
+"Weather": "Whether"
+}
+},
+"type": "homophone"
+},
+{
+"id": "advise_noun",
+"re": "\\b(?:my|your|his|her|our|their|some|good|excellent|useful|legal|medical|further) (advise)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"advise": "advice",
+"Advise": "Advice"
+}
+},
+"type": "homophone"
+},
+{
+"id": "a_vowel",
+"re": "\\b(a) ([aeiou]\\w*?)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"a": "an",
+"A": "An"
+}
+},
+"type": "article",
+"guard": {
+"not_group": 2,
+"words": [
+"one",
+"once",
+"united",
+"university",
+"unicorn",
+"uniform",
+"unique",
+"useful",
+"user",
+"usual",
+"european",
+"europe",
+"eucalyptus",
+"eulogy",
+"ubiquitous"
+],
+"no_plural": true
+}
+},
+{
+"id": "an_consonant",
+"re": "\\b(an) ([bcdfghjklmnpqrstvwxyz]\\w*)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"an": "a",
+"An": "A"
+}
+},
+"type": "article",
+"guard": {
+"not_group": 2,
+"words": [
+"hour",
+"honest",
+"honor",
+"honour",
+"heir",
+"herb",
+"honored"
+]
+}
+},
+{
+"id": "more_compar",
+"re": "\\b(more) (better|worse|easier|faster|harder|cheaper|bigger|smaller|larger|older|younger|nicer|cleaner|quicker|greater|stronger|weaker|taller|shorter|longer)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"more": "",
+"More": ""
+}
+},
+"type": "compar"
+},
+{
+"id": "plural_fix",
+"re": "\\b(advices|equipments|feedbacks|fishes|furnitures|hardwares|homeworks|informations|knowledges|luggages|moneys|peoples|researches|sheeps|softwares|staffs|trainings)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"peoples": "people",
+"informations": "information",
+"equipments": "equipment",
+"advices": "advice",
+"furnitures": "furniture",
+"staffs": "staff",
+"trainings": "training",
+"luggages": "luggage",
+"feedbacks": "feedback",
+"softwares": "software",
+"hardwares": "hardware",
+"knowledges": "knowledge",
+"researches": "research",
+"homeworks": "homework",
+"moneys": "money",
+"fishes": "fish",
+"sheeps": "sheep"
+}
+},
+"type": "plural"
+},
+{
+"id": "this_plural",
+"re": "\\b(this) (?:books|files|folders|letters|reports|things|items|words|pages|chapters|notes|ideas|rules|guidelines|tables|figures|examples|questions|answers)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"this": "these",
+"This": "These"
+}
+},
+"type": "agr"
+},
+{
+"id": "plural_subj_be",
+"re": "\\b([a-z]{3,}s) (was|is|has|does)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 2,
+"map": {
+"was": "were",
+"is": "are",
+"has": "have",
+"does": "do",
+"Was": "Were",
+"Is": "Are"
+}
+},
+"type": "sva",
+"guard": {
+"not_group": 1,
+"words": [
+"news",
+"physics",
+"mathematics",
+"economics",
+"politics",
+"series",
+"species",
+"gymnastics",
+"aerobics",
+"measles",
+"mumps",
+"billiards",
+"darts",
+"dominoes",
+"electronics",
+"dynamics",
+"kinetics",
+"thermodynamics",
+"statistics",
+"linguistics",
+"informatics",
+"civics",
+"ethics",
+"classics",
+"analytics",
+"rabies",
+"diabetes",
+"tennis",
+"chess",
+"molasses",
+"billiards",
+"genetics",
+"logistics",
+"obstetrics",
+"pediatrics",
+"psychiatrics",
+"tactics",
+"aerodynamics"
+],
+"prev_not": [
+"about",
+"of",
+"with",
+"for",
+"from",
+"in",
+"on",
+"at",
+"by",
+"to",
+"near",
+"under",
+"over",
+"without",
+"within",
+"into",
+"onto",
+"upon",
+"during",
+"between",
+"among",
+"across",
+"against",
+"along",
+"behind",
+"beyond",
+"despite",
+"except",
+"inside",
+"outside",
+"past",
+"through",
+"throughout",
+"toward",
+"towards",
+"until",
+"up",
+"down",
+"off",
+"aboard",
+"beneath",
+"beside"
+]
+}
+},
+{
+"id": "dup_word",
+"re": "\\b(a|an|and|are|as|at|be|been|but|by|can|could|did|do|does|for|from|had|has|have|he|how|i|if|in|is|it|might|must|not|of|on|or|she|should|than|that|the|their|them|then|there|they|this|to|was|we|were|what|when|which|who|will|with|would|you) \\1\\b",
+"case": "i",
+"apply": {
+"kind": "dup",
+"group": 0
+},
+"type": "dup"
+},
+{
+"id": "cap_start",
+"re": "^[a-z]+",
+"case": "",
+"apply": {
+"kind": "capfirst"
+},
+"type": "capit",
+"guard": {
+"first_in": [
+"we",
+"them",
+"yous",
+"that",
+"no",
+"yeah",
+"nah",
+"hey",
+"aye",
+"im",
+"ive",
+"id",
+"cant",
+"wont",
+"dont",
+"doesnt",
+"aint",
+"gonna",
+"wasnt",
+"arent",
+"wouldnt",
+"couldnt",
+"shouldnt",
+"shes",
+"hes",
+"theyre",
+"youre",
+"lets",
+"hows",
+"whats",
+"sweet",
+"choice",
+"true",
+"fair",
+"righto",
+"id",
+"wanna",
+"kinda",
+"dunno",
+"gotta",
+"lemme",
+"gimme"
+]
+}
+},
+{
+"id": "cap_i",
+"re": "\\b(i) (am|have|was|will|would|do|did|think|know|believe|hope|guess|need|want|can|could|should|may|might|see|saw|said|say)\\b",
+"case": "",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"i": "I"
+}
+},
+"type": "capit"
+},
+{
+"id": "q_inversion",
+"re": "^(where|what|when|why|how|who|which|whose) (you|they|we|he|she|it|i) (are|is|was|were|do|does|did|can|will|would|should|have|has|had)\\b",
+"case": "i",
+"apply": {
+"kind": "swap",
+"group": 0
+},
+"type": "inversion",
+"guard": {
+"end": "?"
+}
+},
+{
+"id": "responsible_of",
+"re": "\\bresponsible (of)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"of": "for",
+"Of": "For"
+}
+},
+"type": "preposition"
+},
+{
+"id": "depend_of",
+"re": "\\b(?:depend|depends|depended) (of)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"of": "on",
+"Of": "On"
+}
+},
+"type": "preposition"
+},
+{
+"id": "arrived_to",
+"re": "\\b(?:arrive|arrives|arrived) (to)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"to": "at",
+"To": "At"
+}
+},
+"type": "preposition"
+},
+{
+"id": "discussed_about",
+"re": "\\b(?:discuss|discusses|discussed) (about)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"about": "",
+"About": ""
+}
+},
+"type": "preposition"
+},
+{
+"id": "married_with",
+"re": "\\b(?:married|marrying) (with)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"with": "to",
+"With": "To"
+}
+},
+"type": "preposition"
+},
+{
+"id": "interested_about",
+"re": "\\binterested (about)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"about": "in",
+"About": "In"
+}
+},
+"type": "preposition"
+},
+{
+"id": "good_in_activity",
+"re": "\\bgood (in) (?:mathematics|english|science|history|geography|physics|chemistry|biology|art|music|sport|writing|reading|coding)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"in": "at",
+"In": "At"
+}
+},
+"type": "preposition"
+},
+{
+"id": "looking_fwd",
+"re": "\\blooking forward to (see|meet|hear|work|visit|join|receive|read|watch|play|talk|speak|learn|start)\\b",
+"case": "i",
+"apply": {
+"kind": "suffix_ing",
+"group": 0
+},
+"type": "verbform"
+},
+{
+"id": "must_to",
+"re": "\\b(?:must|should|will|can|may) (to) (?:submit|review|confirm|send|return|complete|attend|apply|register|deliver|pay|check|reply|verify|sign)\\b",
+"case": "i",
+"apply": {
+"kind": "map",
+"group": 1,
+"map": {
+"to": "",
+"To": ""
+}
+},
+"type": "modal"
+}
+],
+"version": "rules-1.0"
+}

@@ -1,0 +1,26 @@
+{
+ "train": {
+  "count": 34801,
+  "with_errors": 17439,
+  "clean": 17362,
+  "sha256": "f14f3df76a9ed30d1073f1307e0560c0fc9ebe542fb67de5b04cd55b16ef551d"
+ },
+ "dev": {
+  "count": 251,
+  "with_errors": 111,
+  "clean": 140,
+  "sha256": "78ece2bee0df9e5e3af3f925a6c800b0ab657dfa6fae16dec39ca09c5d4a2d5e"
+ },
+ "calib": {
+  "count": 191,
+  "with_errors": 56,
+  "clean": 135,
+  "sha256": "fbdbe9d2e6eeb202b196510c9dbec9a7274676741b350a731a3aa9f67a38113a"
+ },
+ "test": {
+  "count": 483,
+  "with_errors": 202,
+  "clean": 281,
+  "sha256": "67ae2b365dab98293855462007452930ddcd2c739839d4bae2f101fc12297c80"
+ }
+}

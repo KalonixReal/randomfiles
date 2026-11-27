@@ -1,0 +1,54 @@
+{
+ "notepad-v9.5.0-grammar.html": {
+  "sha256": "5c496fa06981fc10c60895e2068f6bde19cd327145154804b2217b442b71158a",
+  "bytes": 56149208
+ },
+ "engine94.js": {
+  "sha256": "4120b44e6038dab6ebf831af2b2ee38aaae233fc9d48fde40009e20b4eed948f",
+  "bytes": 22701
+ },
+ "rules2.json": {
+  "sha256": "b5abcf58155f0b11b817298ce6270d1dd783a7ab61881319e267cae96d6af468",
+  "bytes": 147277
+ },
+ "engine94_data.json": {
+  "sha256": "8a310ad82fbf51c61197334c2292dd6f30ad63010de75ac3ccc5d20b624d1828",
+  "bytes": 314293
+ },
+ "engine94_rules.json": {
+  "sha256": "9fe8e0ffff10423aa4dc81c6b72fd0e737281664c5b960ad7b90f9822adce96a",
+  "bytes": 115687
+ },
+ "engine94_weights.b64": {
+  "sha256": "c2ad139d0057e51b0571d15124dba619737958456085bf0f3420fda5f02c9e76",
+  "bytes": 1927468
+ },
+ "checkpoints/gru2_best.pt": {
+  "sha256": "6d5c287c7b029a528dcda6109661dd0cae6e7c37f17e7ab14be22b24f8cd08b1",
+  "bytes": 17492019
+ },
+ "data/train.jsonl": {
+  "sha256": "6260c9f2da551b2d8034ad7a7293024ec686ad674a09460d43e7768519a37458",
+  "bytes": 8955109
+ },
+ "data/dev.jsonl": {
+  "sha256": "fe8b0a0b430594996c38a736cc91430a7d83ec8d47513edef29ef53c5ee8a73c",
+  "bytes": 62250
+ },
+ "data/calib.jsonl": {
+  "sha256": "6457fed16c9d512f53fcfcda4d090158332c0a1842e2ae3785e910052548a18a",
+  "bytes": 45299
+ },
+ "data/test.jsonl": {
+  "sha256": "b2b9732fabb3c4306e0d40ee3fc5214fdfc7f301e98a57a583c430d4f7aca214",
+  "bytes": 122788
+ },
+ "results/shipped2_test.json": {
+  "sha256": "2c8de46a13e7d3af581b832754021861f726762f95a87840bfb73cc28eaa7ce7",
+  "bytes": 1355
+ },
+ "results/glm_subset_head_to_head.json": {
+  "sha256": "13775168f1fb3b0f711704f4c5012fdbd8d71dea7752b8e438a22c5b41919a04",
+  "bytes": 438
+ }
+}
