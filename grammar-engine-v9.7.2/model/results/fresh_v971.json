@@ -1,0 +1,71 @@
+{
+ "label": "v971",
+ "html": "notepad-v9.7.1-grammar.html",
+ "rules": "rules-2.8",
+ "veto": null,
+ "split": "data_built/fresh.jsonl",
+ "n": 115,
+ "errors": 50,
+ "clean": 65,
+ "sentence": {
+  "recall": 0.5,
+  "FA": 0,
+  "P": 1,
+  "F05": 0.833,
+  "detected": 25,
+  "cleanFlagged": 0
+ },
+ "strict": {
+  "P": 0.8,
+  "R": 0.4,
+  "F05": 0.667,
+  "tp": 20,
+  "fp": 5,
+  "fn": 30
+ },
+ "byGenre": {
+  "email": {
+   "n": 25,
+   "det": 12,
+   "fp": 0
+  },
+  "essay": {
+   "n": 25,
+   "det": 13,
+   "fp": 0
+  },
+  "clean-prose": {
+   "n": 65,
+   "det": 0,
+   "fp": 0
+  }
+ },
+ "flaggedClean": [],
+ "missedErrors": [
+  "Please find the report attach to this email.",
+  "Thank you for your patients during the outage.",
+  "We regret to inform you that your application has been decline.",
+  "Both proposal were rejected by the board.",
+  "We are currently experience some issues with the payment gateway.",
+  "Please note that the office will be close on Monday.",
+  "Their has been a delay in shipping your order.",
+  "I am interesting in the junior developer role.",
+  "The report which was submitted yesterday have several errors.",
+  "The training session will be hold in the boardroom.",
+  "We apologies for the inconvenience caused.",
+  "This is to inform you that the warranty on your machine expire next month.",
+  "Could you check the data and let me know if their accurate?",
+  "The main reason of the failure was poor planning.",
+  "In conclusion, the evidence suggest that the policy works.",
+  "Students which study regularly perform better in exams.",
+  "The number of participants were higher than expected.",
+  "Pollution effects the health of local residents.",
+  "The experiment resulted in a significant improving in results.",
+  "Childrens spend too much time on screens.",
+  "Compared from last year, sales have doubled.",
+  "The results of the survey was surprising.",
+  "The information were not available at the time.",
+  "The weather in Auckland are unpredictable.",
+  "The essay discuss two main causes of the war."
+ ]
+}

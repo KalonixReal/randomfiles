@@ -1,0 +1,483 @@
+{"idx": 0, "s_bad": "The class have wrote their names on the folders.", "cats": null, "clean": "The class has written their names on the folders."}
+{"idx": 1, "s_bad": "My brother was dissapointed with his exam results.", "cats": null, "clean": "My brother was disappointed with his exam results."}
+{"idx": 2, "s_bad": "She take the bus to the campus each morning.", "cats": null, "clean": "She takes the bus to the campus each morning."}
+{"idx": 3, "s_bad": "The teacher have marked all of the essays already.", "cats": null, "clean": "The teacher has marked all of the essays already."}
+{"idx": 4, "s_bad": "I done my reading log last night before dinner.", "cats": null, "clean": "I did my reading log last night before dinner."}
+{"idx": 5, "s_bad": "We learnt about the treaty in social studies class.", "cats": null, "clean": "We learnt about the treaty in social studies class."}
+{"idx": 6, "s_bad": "My friend have lost her library card somewhere.", "cats": null, "clean": "My friend has lost her library card somewhere."}
+{"idx": 7, "s_bad": "The principal asked everyone to be quite during assembly.", "cats": null, "clean": "The principal asked everyone to be quiet during assembly."}
+{"idx": 8, "s_bad": "There is less students in the choir this year then last year.", "cats": null, "clean": "There is fewer students in the choir this year than last year."}
+{"idx": 9, "s_bad": "Neither of my parents was born in this country.", "cats": null, "clean": "Neither of my parents was born in this country."}
+{"idx": 10, "s_bad": "He should of asked for an extension on the assignment.", "cats": null, "clean": "He should have asked for an extension on the assignment."}
+{"idx": 11, "s_bad": "The science fair is held in the gymnasium every Octobers.", "cats": null, "clean": "The science fair is held in the gymnasium every October."}
+{"idx": 12, "s_bad": "My essay were three pages longer then required.", "cats": null, "clean": "My essay was three pages longer than required."}
+{"idx": 13, "s_bad": "I use to sit next to her in form class.", "cats": null, "clean": "I used to sit next to her in form class."}
+{"idx": 14, "s_bad": "Everyone in the orchestra were given new sheet music.", "cats": null, "clean": "Everyone in the orchestra was given new sheet music."}
+{"idx": 15, "s_bad": "She is very good with mathematics and statistics.", "cats": null, "clean": "She is very good with mathematics and statistics."}
+{"idx": 16, "s_bad": "The coach made us to run laps before the match.", "cats": null, "clean": "The coach made us run laps before the match."}
+{"idx": 17, "s_bad": "We was told that the trip might be cancelled.", "cats": null, "clean": "We were told that the trip might be cancelled."}
+{"idx": 18, "s_bad": "the assembly begins at nine sharp on Wednesdays.", "cats": null, "clean": "The assembly begins at nine sharp on Wednesdays."}
+{"idx": 19, "s_bad": "My cousin dont want to study medicine at university.", "cats": null, "clean": "My cousin doesn't want to study medicine at university."}
+{"idx": 20, "s_bad": "I recieve my exam timetable at the start of term.", "cats": null, "clean": "I receive my exam timetable at the start of term."}
+{"idx": 21, "s_bad": "The librarian have ordered new books for the collection.", "cats": null, "clean": "The librarian has ordered new books for the collection."}
+{"idx": 22, "s_bad": "My parents was happy with my interim report.", "cats": null, "clean": "My parents were happy with my interim report."}
+{"idx": 23, "s_bad": "She past the audition for the regional choir.", "cats": null, "clean": "She passed the audition for the regional choir."}
+{"idx": 24, "s_bad": "The class is divided in four working groups.", "cats": null, "clean": "The class is divided into four working groups."}
+{"idx": 25, "s_bad": "We discussed about the novel's ending in English.", "cats": null, "clean": "We discussed the novel's ending in English."}
+{"idx": 26, "s_bad": "Her advise was to start the essay early.", "cats": null, "clean": "Her advice was to start the essay early."}
+{"idx": 27, "s_bad": "i stayed up late finishing the geography assignment.", "cats": null, "clean": "I stayed up late finishing the geography assignment."}
+{"idx": 28, "s_bad": "Between you and I, the exam was far too long.", "cats": null, "clean": "Between you and me, the exam was far too long."}
+{"idx": 29, "s_bad": "The results was better then anyone expected.", "cats": null, "clean": "The results were better than anyone expected."}
+{"idx": 30, "s_bad": "My sister have applied for a scholarship this year.", "cats": null, "clean": "My sister has applied for a scholarship this year."}
+{"idx": 31, "s_bad": "The bus was more fuller than the morning one.", "cats": null, "clean": "The bus was fuller than the morning one."}
+{"idx": 32, "s_bad": "He gave the worksheet to my friend and I.", "cats": null, "clean": "He gave the worksheet to my friend and me."}
+{"idx": 33, "s_bad": "Its the last week of the summer term.", "cats": null, "clean": "It's the last week of the summer term."}
+{"idx": 34, "s_bad": "The teacher said that the test is easy, but it werent.", "cats": null, "clean": "The teacher said that the test is easy, but it wasn't."}
+{"idx": 35, "s_bad": "Where the students is going after the trip", "cats": null, "clean": "Where are the students going going after the trip"}
+{"idx": 36, "s_bad": "Do you knows when the marks are released", "cats": null, "clean": "Do you know when the marks are released"}
+{"idx": 37, "s_bad": "My friends are interesting in joining the robotics club.", "cats": null, "clean": "My friends are interested in joining the robotics club."}
+{"idx": 38, "s_bad": "The register is took by the form tutor each morning.", "cats": null, "clean": "The register is taken by the form tutor each morning."}
+{"idx": 39, "s_bad": "She can sings higher than anyone in the choir.", "cats": null, "clean": "She can sing higher than anyone in the choir."}
+{"idx": 40, "s_bad": "Our teacher have lent us her copy of the play.", "cats": null, "clean": "Our teacher has lent us her copy of the play."}
+{"idx": 41, "s_bad": "Why the library is closed on Monday afternoons", "cats": null, "clean": "Why is the library closed on Monday afternoons"}
+{"idx": 42, "s_bad": "The depute head teacher addressed the year group.", "cats": null, "clean": "The deputy head teacher addressed the year group."}
+{"idx": 43, "s_bad": "My coursework is been moderated externally this year.", "cats": null, "clean": "My coursework is being moderated externally this year."}
+{"idx": 44, "s_bad": "We have wrote to the board about the uniform changes.", "cats": null, "clean": "We have written to the board about the uniform changes."}
+{"idx": 45, "s_bad": "Her notes are more tidy then mine, always.", "cats": null, "clean": "Her notes are tidier than mine, always."}
+{"idx": 46, "s_bad": "The school's policy don't allow phones in class.", "cats": null, "clean": "The school's policy doesn't allow phones in class."}
+{"idx": 47, "s_bad": "I have learnt the poem off by heart now.", "cats": null, "clean": "I have learnt the poem off by heart now."}
+{"idx": 48, "s_bad": "The pupils has voted for a new house captain.", "cats": null, "clean": "The pupils have voted for a new house captain."}
+{"idx": 49, "s_bad": "My stationaries keep disappearing from my pencil case.", "cats": null, "clean": "My stationery keep disappearing from my pencil case."}
+{"idx": 50, "s_bad": "The book thats on the desk is overdue at the library.", "cats": null, "clean": "The book that's on the desk is overdue at the library."}
+{"idx": 51, "s_bad": "I need to ring the plummer about the dripping tap.", "cats": null, "clean": "I need to ring the plumber about the dripping tap."}
+{"idx": 52, "s_bad": "the electrician is coming on Tuesday morning early.", "cats": null, "clean": "The electrician is coming on Tuesday morning early."}
+{"idx": 53, "s_bad": "Remember to buy bread, milk, and some tea bag's.", "cats": null, "clean": "Remember to buy bread, milk, and some tea bags."}
+{"idx": 54, "s_bad": "My neighbour have offered to mow our lawns.", "cats": null, "clean": "My neighbour has offered to mow our lawns."}
+{"idx": 55, "s_bad": "I was planning to visited the hot pools this weekend.", "cats": null, "clean": "I was planning to visit the hot pools this weekend."}
+{"idx": 56, "s_bad": "The dog has been digging up the garden again, typical.", "cats": null, "clean": "The dog has been digging up the garden again, typical."}
+{"idx": 57, "s_bad": "We don't have no bread left in the cupboard.", "cats": null, "clean": "We don't have bread left in the cupboard."}
+{"idx": 58, "s_bad": "Her and her sister are arriving on Friday night.", "cats": null, "clean": "She and her sister are arriving on Friday night."}
+{"idx": 59, "s_bad": "I should of renewed my licence before it lapsed.", "cats": null, "clean": "I should have renewed my licence before it lapsed."}
+{"idx": 60, "s_bad": "The mechanic said the car needs it's brake fluid topped up.", "cats": null, "clean": "The mechanic said the car needs its brake fluid topped up."}
+{"idx": 61, "s_bad": "Their not coming to the reunion this year after all.", "cats": null, "clean": "They're not coming to the reunion this year after all."}
+{"idx": 62, "s_bad": "The vecation photos from Taupo came out beautifully.", "cats": null, "clean": "The vacation photos from Taupo came out beautifully."}
+{"idx": 63, "s_bad": "i keep forgetting to defrost the mince for dinner.", "cats": null, "clean": "I keep forgetting to defrost the mince for dinner."}
+{"idx": 64, "s_bad": "The washing machine is been repaired under warranty.", "cats": null, "clean": "The washing machine is being repaired under warranty."}
+{"idx": 65, "s_bad": "My doctor told me to took the antibiotics with food.", "cats": null, "clean": "My doctor told me to take the antibiotics with food."}
+{"idx": 66, "s_bad": "We have lived here since ten years last month.", "cats": null, "clean": "We have lived here for ten years last month."}
+{"idx": 67, "s_bad": "The cat have knocked the ornaments off the shelf twice.", "cats": null, "clean": "The cat has knocked the ornaments off the shelf twice."}
+{"idx": 68, "s_bad": "I can't get no reception on my phone down here.", "cats": null, "clean": "I can't get reception on my phone down here."}
+{"idx": 69, "s_bad": "Their going to reopen the coastal walkway in spring.", "cats": null, "clean": "They're going to reopen the coastal walkway in spring."}
+{"idx": 70, "s_bad": "The pie stall at the market was closed, annoyingly.", "cats": null, "clean": "The pie stall at the market was closed, annoyingly."}
+{"idx": 71, "s_bad": "Me and Dave are painting the fence this Saturday.", "cats": null, "clean": "Dave and I and Dave are painting the fence this Saturday."}
+{"idx": 72, "s_bad": "The perscription is ready for pickup after four.", "cats": null, "clean": "The prescription is ready for pickup after four."}
+{"idx": 73, "s_bad": "I wonder if the the ferry runs on public holidays.", "cats": null, "clean": "I wonder if the ferry runs on public holidays."}
+{"idx": 74, "s_bad": "Grandma dont like driving at night anymore.", "cats": null, "clean": "Grandma doesn't like driving at night anymore."}
+{"idx": 75, "s_bad": "The heatpump filter needs a clean before winter.", "cats": null, "clean": "The heatpump filter needs a clean before winter."}
+{"idx": 76, "s_bad": "We was going to sell the trailer, but changed our minds.", "cats": null, "clean": "We were going to sell the trailer, but changed our minds."}
+{"idx": 77, "s_bad": "The lease agreement arrived in the post this morning.", "cats": null, "clean": "The lease agreement arrived in the post this morning."}
+{"idx": 78, "s_bad": "Its amazing how quickly the weeds grow back.", "cats": null, "clean": "It's amazing how quickly the weeds grow back."}
+{"idx": 79, "s_bad": "The landlord said the rent is due in the 20th.", "cats": null, "clean": "The landlord said the rent is due on the 20th."}
+{"idx": 80, "s_bad": "I have put off ringing the dentist for to long.", "cats": null, "clean": "I have put off ringing the dentist for too long."}
+{"idx": 81, "s_bad": "Where I can find the spare keys for the shed", "cats": null, "clean": "Where can I find the spare keys for the shed"}
+{"idx": 82, "s_bad": "The builders have finish the deck ahead of schedule.", "cats": null, "clean": "The builders have finished the deck ahead of schedule."}
+{"idx": 83, "s_bad": "Our cat dont touch the expensive food we bought.", "cats": null, "clean": "Our cat doesn't touch the expensive food we bought."}
+{"idx": 84, "s_bad": "gonna grab a coffee before lectures start.", "cats": null, "clean": "Going to grab a coffee before lectures start."}
+{"idx": 85, "s_bad": "she dont know about the surprise party yet.", "cats": null, "clean": "she doesn't know about the surprise party yet."}
+{"idx": 86, "s_bad": "we shoulda booked the tickets weeks ago, mate.", "cats": null, "clean": "we shoulda booked the tickets weeks ago, mate."}
+{"idx": 87, "s_bad": "id of texted you but my phone was flat.", "cats": null, "clean": "id have texted you but my phone was flat."}
+{"idx": 88, "s_bad": "your not going to believe what happened at work.", "cats": null, "clean": "you're not going to believe what happened at work."}
+{"idx": 89, "s_bad": "there all meeting at the surf club at noon.", "cats": null, "clean": "they're all meeting at the surf club at noon."}
+{"idx": 90, "s_bad": "he was to tired to come to the quiz night.", "cats": null, "clean": "he was too tired to come to the quiz night."}
+{"idx": 91, "s_bad": "i cant even, that finale was so full on.", "cats": null, "clean": "I cant even, that finale was so full on."}
+{"idx": 92, "s_bad": "did you seen the size of that kahawai though", "cats": null, "clean": "did you see the size of that kahawai though"}
+{"idx": 93, "s_bad": "we was going to go tramping but the track closed.", "cats": null, "clean": "we were going to go tramping but the track closed."}
+{"idx": 94, "s_bad": "lemme know what time your getting there.", "cats": null, "clean": "lemme know what time you're getting there."}
+{"idx": 95, "s_bad": "its such a mission getting out of bed in winter.", "cats": null, "clean": "it's such a mission getting out of bed in winter."}
+{"idx": 96, "s_bad": "could care less about the rugby to be honest.", "cats": null, "clean": "couldn't care less about the rugby to be honest."}
+{"idx": 97, "s_bad": "their doing a vegan option at the wedding now.", "cats": null, "clean": "they're doing a vegan option at the wedding now."}
+{"idx": 98, "s_bad": "whats the go with the car parking situation", "cats": null, "clean": "what's the go with the car parking situation"}
+{"idx": 99, "s_bad": "weve sorted the sound system for the party.", "cats": null, "clean": "we've sorted the sound system for the party."}
+{"idx": 100, "s_bad": "youd think the bus would run on Sundays.", "cats": null, "clean": "you'd think the bus would run on Sundays."}
+{"idx": 101, "s_bad": "hes absolute rubbish at mini golf though.", "cats": null, "clean": "he's absolute rubbish at mini golf though."}
+{"idx": 102, "s_bad": "id rather stay home and watch the finals tonight.", "cats": null, "clean": "id rather stay home and watch the finals tonight."}
+{"idx": 103, "s_bad": "arent you supposed to be at the dentist now?", "cats": null, "clean": "aren't you supposed to be at the dentist now?"}
+{"idx": 104, "s_bad": "wasnt me who left the gate open this time.", "cats": null, "clean": "wasn't me who left the gate open this time."}
+{"idx": 105, "s_bad": "wont bother going if the weathers dodgy.", "cats": null, "clean": "won't bother going if the weathers dodgy."}
+{"idx": 106, "s_bad": "wouldnt mind some fish and chips for tea.", "cats": null, "clean": "wouldn't mind some fish and chips for tea."}
+{"idx": 107, "s_bad": "must of left my wallet at the takeaway shop.", "cats": null, "clean": "must have left my wallet at the takeaway shop."}
+{"idx": 108, "s_bad": "should of known the traffic would be awful.", "cats": null, "clean": "should have known the traffic would be awful."}
+{"idx": 109, "s_bad": "lets us know if youre coming on the Saturday.", "cats": null, "clean": "let's us know if youre coming on the Saturday."}
+{"idx": 110, "s_bad": "dont think theyll cancel the market day.", "cats": null, "clean": "don't think they'll cancel the market day."}
+{"idx": 111, "s_bad": "i could of sworn it was on the friday arvo.", "cats": null, "clean": "I could of sworn it was on the friday arvo."}
+{"idx": 112, "s_bad": "you was telling me about that ages ago.", "cats": null, "clean": "you were telling me about that ages ago."}
+{"idx": 113, "s_bad": "them sausages were the best Ive had in ages.", "cats": null, "clean": "them sausages were the best Ive had in ages."}
+{"idx": 114, "s_bad": "that new café does the flat whites, aye.", "cats": null, "clean": "that new café does the flat whites, aye."}
+{"idx": 115, "s_bad": "no worries at all, see yous on the Saturday.", "cats": null, "clean": "no worries at all, see yous on the Saturday."}
+{"idx": 116, "s_bad": "The revised budget was send to the committee yesterday.", "cats": null, "clean": "The revised budget was sent to the committee yesterday."}
+{"idx": 117, "s_bad": "Please find attached the minutes from the last meeting.", "cats": null, "clean": "Please find attached the minutes from the last meeting."}
+{"idx": 118, "s_bad": "Our team have been working on the migration for three months.", "cats": null, "clean": "Our team have been working on the migration for three months."}
+{"idx": 119, "s_bad": "The clients wants an update by the end of the week.", "cats": null, "clean": "The clients want an update by the end of the week."}
+{"idx": 120, "s_bad": "She has been appointed to head the new division.", "cats": null, "clean": "She has been appointed to head the new division."}
+{"idx": 121, "s_bad": "The vendor have confirmed the delivery date for Monday.", "cats": null, "clean": "The vendor has confirmed the delivery date for Monday."}
+{"idx": 122, "s_bad": "We are currently experience intermittent connectivity issues.", "cats": null, "clean": "We are currently experiencing intermittent connectivity issues."}
+{"idx": 123, "s_bad": "The proposal were reviewed by two independent consultants.", "cats": null, "clean": "The proposal was reviewed by two independent consultants."}
+{"idx": 124, "s_bad": "Kindly revert to me should their be any discrepancies.", "cats": null, "clean": "Kindly revert to me should there be any discrepancies."}
+{"idx": 125, "s_bad": "The training materials is being updated this week.", "cats": null, "clean": "The training materials are being updated this week."}
+{"idx": 126, "s_bad": "Both departments was represented at the briefing.", "cats": null, "clean": "Both departments were represented at the briefing."}
+{"idx": 127, "s_bad": "The account manager have scheduled a call for Thursday.", "cats": null, "clean": "The account manager has scheduled a call for Thursday."}
+{"idx": 128, "s_bad": "We regret to inform you that the event is cancelled due the storm.", "cats": null, "clean": "We regret to inform you that the event is cancelled due to the storm."}
+{"idx": 129, "s_bad": "Her promotion was announced in the last staff meeting.", "cats": null, "clean": "Her promotion was announced in the last staff meeting."}
+{"idx": 130, "s_bad": "The quarterly figures was higher then expected.", "cats": null, "clean": "The quarterly figures were higher than expected."}
+{"idx": 131, "s_bad": "Please ensure that all invoices is filed before the audit.", "cats": null, "clean": "Please ensure that all invoices are filed before the audit."}
+{"idx": 132, "s_bad": "The merger have been approved by the regulatory authorities.", "cats": null, "clean": "The merger has been approved by the regulatory authorities."}
+{"idx": 133, "s_bad": "I look forward to receive your feedback on the draft.", "cats": null, "clean": "I look forward to receiving your feedback on the draft."}
+{"idx": 134, "s_bad": "The report has been thorough reviewed by the legal team.", "cats": null, "clean": "The report has been thoroughly reviewed by the legal team."}
+{"idx": 135, "s_bad": "Our focus this quarter is improving response times.", "cats": null, "clean": "Our focus this quarter is improving response times."}
+{"idx": 136, "s_bad": "The committee have not yet reached an agreement on the budget.", "cats": null, "clean": "The committee have not yet reached an agreement on the budget."}
+{"idx": 137, "s_bad": "Each of the regions is allocated a separate budget.", "cats": null, "clean": "Each of the regions is allocated a separate budget."}
+{"idx": 138, "s_bad": "None of the reports was submitted on time this month.", "cats": null, "clean": "None of the reports were submitted on time this month."}
+{"idx": 139, "s_bad": "The new policy effects all permanent staff members.", "cats": null, "clean": "The new policy affects all permanent staff members."}
+{"idx": 140, "s_bad": "We have wrote to the council about the zoning change.", "cats": null, "clean": "We have written to the council about the zoning change."}
+{"idx": 141, "s_bad": "She will be attending the summit in Wellington next week.", "cats": null, "clean": "She will be attending the summit in Wellington next week."}
+{"idx": 142, "s_bad": "The company has grow rapidly since the pandemic.", "cats": null, "clean": "The company has grown rapidly since the pandemic."}
+{"idx": 143, "s_bad": "Its essential that we finalise the contract this week.", "cats": null, "clean": "It's essential that we finalise the contract this week."}
+{"idx": 144, "s_bad": "The auditor recommended that the processes is documented.", "cats": null, "clean": "The auditor recommended that the processes be documented."}
+{"idx": 145, "s_bad": "Our headquarter is relocating to the waterfront offices.", "cats": null, "clean": "Our headquarters is relocating to the waterfront offices."}
+{"idx": 146, "s_bad": "The intern have completed her induction programme.", "cats": null, "clean": "The intern has completed her induction programme."}
+{"idx": 147, "s_bad": "Please advice the client of the schedule change.", "cats": null, "clean": "Please advise the client of the schedule change."}
+{"idx": 148, "s_bad": "We discussed about the proposal at the board meeting.", "cats": null, "clean": "We discussed the proposal at the board meeting."}
+{"idx": 149, "s_bad": "The forecast predicts that sales will rise significant.", "cats": null, "clean": "The forecast predicts that sales will rise significantly."}
+{"idx": 150, "s_bad": "Her role is mainly focus on compliance and reporting.", "cats": null, "clean": "Her role is mainly focused on compliance and reporting."}
+{"idx": 151, "s_bad": "The training session is scheduled for the fifteen of June.", "cats": null, "clean": "The training session is scheduled for the fifteenth of June."}
+{"idx": 152, "s_bad": "We have receive your payment and updated the ledger.", "cats": null, "clean": "We have received your payment and updated the ledger."}
+{"idx": 153, "s_bad": "The organisation is committed to reduce its emissions.", "cats": null, "clean": "The organisation is committed to reducing its emissions."}
+{"idx": 154, "s_bad": "Between you and I, the timeline is far too tight.", "cats": null, "clean": "Between you and me, the timeline is far too tight."}
+{"idx": 155, "s_bad": "The system was down for approximately two hours this morning.", "cats": null, "clean": "The system was down for approximately two hours this morning."}
+{"idx": 156, "s_bad": "All request must be submitted through the new portal.", "cats": null, "clean": "All requests must be submitted through the new portal."}
+{"idx": 157, "s_bad": "The contractors has finished the renovation of the foyer.", "cats": null, "clean": "The contractors have finished the renovation of the foyer."}
+{"idx": 158, "s_bad": "We are interesting in partnering on the research project.", "cats": null, "clean": "We are interested in partnering on the research project."}
+{"idx": 159, "s_bad": "The document is been proofread by the communications team.", "cats": null, "clean": "The document is being proofread by the communications team."}
+{"idx": 160, "s_bad": "Could you confirm where is the training room located", "cats": null, "clean": "Could you confirm where the training room is located"}
+{"idx": 161, "s_bad": "I am not sure why was the shipment delayed again.", "cats": null, "clean": "I am not sure why the the shipment delayed again."}
+{"idx": 162, "s_bad": "the workshop will cover both theory and practical elements.", "cats": null, "clean": "The workshop will cover both theory and practical elements."}
+{"idx": 163, "s_bad": "i have attached the agenda for your reference.", "cats": null, "clean": "I have attached the agenda for your reference."}
+{"idx": 164, "s_bad": "The response from the client were overwhelmingly positive.", "cats": null, "clean": "The response from the client was overwhelmingly positive."}
+{"idx": 165, "s_bad": "She was promoted ahead of more senior colleagues, controversially.", "cats": null, "clean": "She was promoted ahead of more senior colleagues, controversially."}
+{"idx": 166, "s_bad": "The team did not met the revised deadline in April.", "cats": null, "clean": "The team did not meet the revised deadline in April."}
+{"idx": 167, "s_bad": "We must received approval before proceeding further.", "cats": null, "clean": "We must receive approval before proceeding further."}
+{"idx": 168, "s_bad": "Their going to extend the trial by two weeks.", "cats": null, "clean": "They're going to extend the trial by two weeks."}
+{"idx": 169, "s_bad": "The committee meets alternate Tuesdays to review progress.", "cats": null, "clean": "The committee meets alternate Tuesdays to review progress."}
+{"idx": 170, "s_bad": "The presentation is based on data collected over six month.", "cats": null, "clean": "The presentation is based on data collected over six months."}
+{"idx": 171, "s_bad": "Would you mind to review the attached spreadsheet?", "cats": null, "clean": "Would you mind reviewing the attached spreadsheet?"}
+{"idx": 172, "s_bad": "The partnership have delivered results beyond expectations.", "cats": null, "clean": "The partnership have delivered results beyond expectations."}
+{"idx": 173, "s_bad": "He is responsible of the training budget this year.", "cats": null, "clean": "He is responsible for the training budget this year."}
+{"idx": 174, "s_bad": "The upgrade was completed without no downtime, thankfully.", "cats": null, "clean": "The upgrade was completed without downtime, thankfully."}
+{"idx": 175, "s_bad": "We appriciate your patience during the transition period.", "cats": null, "clean": "We appreciate your patience during the transition period."}
+{"idx": 176, "s_bad": "The survey received a response rate of sixty percent.", "cats": null, "clean": "The survey received a response rate of sixty percent."}
+{"idx": 177, "s_bad": "Loosing the contract would be a serious setback.", "cats": null, "clean": "Losing the contract would be a serious setback."}
+{"idx": 178, "s_bad": "The board has approve the capital expenditure request.", "cats": null, "clean": "The board has approved the capital expenditure request."}
+{"idx": 179, "s_bad": "It was decided that the event would postponed until spring.", "cats": null, "clean": "It was decided that the event would be postponed until spring."}
+{"idx": 180, "s_bad": "The documents were review by the compliance officer.", "cats": null, "clean": "The documents were reviewed by the compliance officer."}
+{"idx": 181, "s_bad": "She is married with a partner at the law firm.", "cats": null, "clean": "She is married to a partner at the law firm."}
+{"idx": 182, "s_bad": "The figures is summarised in the table below.", "cats": null, "clean": "The figures are summarised in the table below."}
+{"idx": 183, "s_bad": "The API returns a error if the token has expired.", "cats": null, "clean": "The API returns an error if the token has expired."}
+{"idx": 184, "s_bad": "An user can override the default timeout setting.", "cats": null, "clean": "A user can override the default timeout setting."}
+{"idx": 185, "s_bad": "The cache invalidates entries after 24 hour.", "cats": null, "clean": "The cache invalidates entries after 24 hours."}
+{"idx": 186, "s_bad": "This parameter determine how the logger is initialised.", "cats": null, "clean": "This parameter determines how the logger is initialised."}
+{"idx": 187, "s_bad": "The driver is compatible with all recentest kernel versions.", "cats": null, "clean": "The driver is compatible with all recent kernel versions."}
+{"idx": 188, "s_bad": "We recommend to upgrade the firmware before deployment.", "cats": null, "clean": "We recommend upgrading the firmware before deployment."}
+{"idx": 189, "s_bad": "The middleware logs each request with it's timestamp.", "cats": null, "clean": "The middleware logs each request with its timestamp."}
+{"idx": 190, "s_bad": "Data is written to the disk every 60 second.", "cats": null, "clean": "Data is written to the disk every 60 seconds."}
+{"idx": 191, "s_bad": "The service gracefully handles request that arrive out of order.", "cats": null, "clean": "The service gracefully handles requests that arrive out of order."}
+{"idx": 192, "s_bad": "Their are two methods for authenticating clients.", "cats": null, "clean": "There are two methods for authenticating clients."}
+{"idx": 193, "s_bad": "The function will retries three times before failing.", "cats": null, "clean": "The function will retry three times before failing."}
+{"idx": 194, "s_bad": "An index is create automatically on the primary key.", "cats": null, "clean": "An index is created automatically on the primary key."}
+{"idx": 195, "s_bad": "The the documentation covers both endpoints.", "cats": null, "clean": "The documentation covers both endpoints."}
+{"idx": 196, "s_bad": "If the node fails, the cluster elect a new leader.", "cats": null, "clean": "If the node fails, the cluster elects a new leader."}
+{"idx": 197, "s_bad": "The utility can be run from any directory, no matter.", "cats": null, "clean": "The utility can be run from any directory, no matter."}
+{"idx": 198, "s_bad": "We have fixed the bug that effected the login flow.", "cats": null, "clean": "We have fixed the bug that affected the login flow."}
+{"idx": 199, "s_bad": "The schema was migrate to the newer format last night.", "cats": null, "clean": "The schema was migrated to the newer format last night."}
+{"idx": 200, "s_bad": "Users must be log in before accessing the dashboard.", "cats": null, "clean": "Users must log in before accessing the dashboard."}
+{"idx": 201, "s_bad": "The plugin doesn't supported the legacy API anymore.", "cats": null, "clean": "The plugin doesn't support the legacy API anymore."}
+{"idx": 202, "s_bad": "Consult the changelog for details of breaking change.", "cats": null, "clean": "Consult the changelog for details of breaking changes."}
+{"idx": 203, "s_bad": "The interface is design to degrade gracefully.", "cats": null, "clean": "The interface is designed to degrade gracefully."}
+{"idx": 204, "s_bad": "Set the flag to true and the service will restarts.", "cats": null, "clean": "Set the flag to true and the service will restart."}
+{"idx": 205, "s_bad": "The queue is drain whenever memory pressure is high.", "cats": null, "clean": "The queue is drained whenever memory pressure is high."}
+{"idx": 206, "s_bad": "Where the config file are stored on this platform", "cats": null, "clean": "Where is the config file stored on this platform"}
+{"idx": 207, "s_bad": "Why the migration script is failing on the audit table", "cats": null, "clean": "Why is the migration script failing on the audit table"}
+{"idx": 208, "s_bad": "I have been work on the caching layer this sprint.", "cats": null, "clean": "I have been working on the caching layer this sprint."}
+{"idx": 209, "s_bad": "The tutorial shows how to add a widgets to the dashboard.", "cats": null, "clean": "The tutorial shows how to add widgets to the dashboard."}
+{"idx": 210, "s_bad": "Deleting cache will force a rebuild on next request.", "cats": null, "clean": "Deleting cache will force a rebuild on next request."}
+{"idx": 211, "s_bad": "The response time were significantly lower in the second run.", "cats": null, "clean": "The response time was significantly lower in the second run."}
+{"idx": 212, "s_bad": "Each request is authenticate against the identity service.", "cats": null, "clean": "Each request is authenticated against the identity service."}
+{"idx": 213, "s_bad": "The backup script have been scheduled for 2 a.m.", "cats": null, "clean": "The backup script has been scheduled for 2 a.m."}
+{"idx": 214, "s_bad": "A token is required for each API call.", "cats": null, "clean": "A token is required for each API call."}
+{"idx": 215, "s_bad": "The library handles retries with exponential backoff.", "cats": null, "clean": "The library handles retries with exponential backoff."}
+{"idx": 216, "s_bad": "This settings control the verbosity of the logger.", "cats": null, "clean": "These settings control the verbosity of the logger."}
+{"idx": 217, "s_bad": "The profiler reveals which function consume the most time.", "cats": null, "clean": "The profiler reveals which function consumes the most time."}
+{"idx": 218, "s_bad": "An array of ids is passed to the lookup function.", "cats": null, "clean": "An array of ids is passed to the lookup function."}
+{"idx": 219, "s_bad": "The service have been instrumented with metrics.", "cats": null, "clean": "The service has been instrumented with metrics."}
+{"idx": 220, "s_bad": "Load is balanced between the three available node.", "cats": null, "clean": "Load is balanced between the three available nodes."}
+{"idx": 221, "s_bad": "The client retries failed request with a fixed delay.", "cats": null, "clean": "The client retries failed requests with a fixed delay."}
+{"idx": 222, "s_bad": "Its important to back up the database before upgrading.", "cats": null, "clean": "It's important to back up the database before upgrading."}
+{"idx": 223, "s_bad": "The build was failing because of a missing dependencies.", "cats": null, "clean": "The build was failing because of missing dependencies."}
+{"idx": 224, "s_bad": "We are proud of the improvments in version 2.", "cats": null, "clean": "We are proud of the improvements in version 2."}
+{"idx": 225, "s_bad": "The framework support both REST and GraphQL.", "cats": null, "clean": "The framework supports both REST and GraphQL."}
+{"idx": 226, "s_bad": "The patch adresses a security vulnerability in the parser.", "cats": null, "clean": "The patch addresses a security vulnerability in the parser."}
+{"idx": 227, "s_bad": "Enviroment variables are read at startup only.", "cats": null, "clean": "Environment variables are read at startup only."}
+{"idx": 228, "s_bad": "The server responded with a 500 error twice yesterday.", "cats": null, "clean": "The server responded with a 500 error twice yesterday."}
+{"idx": 229, "s_bad": "A cookie is stored on the client for the session.", "cats": null, "clean": "A cookie is stored on the client for the session."}
+{"idx": 230, "s_bad": "The logs are rotate daily to conserve disk space.", "cats": null, "clean": "The logs are rotated daily to conserve disk space."}
+{"idx": 231, "s_bad": "Dont forget to run the migrations before deploying.", "cats": null, "clean": "Don't forget to run the migrations before deploying."}
+{"idx": 232, "s_bad": "The the release notes mention this known issue.", "cats": null, "clean": "The release notes mention this known issue."}
+{"idx": 233, "s_bad": "Older clients will be redirects to the new endpoint.", "cats": null, "clean": "Older clients will be redirected to the new endpoint."}
+{"idx": 234, "s_bad": "The scheduler triggers the job each midnight.", "cats": null, "clean": "The scheduler triggers the job each midnight."}
+{"idx": 235, "s_bad": "We been monitoring the service since the outage.", "cats": null, "clean": "We have been monitoring the service since the outage."}
+{"idx": 236, "s_bad": "The committee has published its final recommendations.", "cats": null, "clean": "The committee has published its final recommendations."}
+{"idx": 237, "s_bad": "The committee have published their final recommendations.", "cats": null, "clean": "The committee have published their final recommendations."}
+{"idx": 238, "s_bad": "Data were collected over a period of six weeks.", "cats": null, "clean": "Data were collected over a period of six weeks."}
+{"idx": 239, "s_bad": "Our neighbours' cat keeps sitting on our bonnet.", "cats": null, "clean": "Our neighbours' cat keeps sitting on our bonnet."}
+{"idx": 240, "s_bad": "Each of the interns has a designated mentor.", "cats": null, "clean": "Each of the interns has a designated mentor."}
+{"idx": 241, "s_bad": "The jury are divided over the verdict.", "cats": null, "clean": "The jury are divided over the verdict."}
+{"idx": 242, "s_bad": "The jury has delivered its verdict.", "cats": null, "clean": "The jury has delivered its verdict."}
+{"idx": 243, "s_bad": "The pair of scissors is in the top drawer.", "cats": null, "clean": "The pair of scissors is in the top drawer."}
+{"idx": 244, "s_bad": "My trousers are finally back from the tailor.", "cats": null, "clean": "My trousers are finally back from the tailor."}
+{"idx": 245, "s_bad": "The stationery order arrived this afternoon.", "cats": null, "clean": "The stationery order arrived this afternoon."}
+{"idx": 246, "s_bad": "The ladder is leaning against the stationery cupboard.", "cats": null, "clean": "The ladder is leaning against the stationery cupboard."}
+{"idx": 247, "s_bad": "Mumps is going around the junior school.", "cats": null, "clean": "Mumps is going around the junior school."}
+{"idx": 248, "s_bad": "Twenty dollars seems excessive for a coffee.", "cats": null, "clean": "Twenty dollars seems excessive for a coffee."}
+{"idx": 249, "s_bad": "Statistics is a required course for the degree.", "cats": null, "clean": "Statistics is a required course for the degree."}
+{"idx": 250, "s_bad": "Statistics were cited throughout the debate.", "cats": null, "clean": "Statistics were cited throughout the debate."}
+{"idx": 251, "s_bad": "The staff is briefed every Monday morning.", "cats": null, "clean": "The staff is briefed every Monday morning."}
+{"idx": 252, "s_bad": "The staff are briefed every Monday morning.", "cats": null, "clean": "The staff are briefed every Monday morning."}
+{"idx": 253, "s_bad": "One of the engines was still warm.", "cats": null, "clean": "One of the engines was still warm."}
+{"idx": 254, "s_bad": "The phenomena were recorded by three observers.", "cats": null, "clean": "The phenomena were recorded by three observers."}
+{"idx": 255, "s_bad": "The criterion was met by all candidates.", "cats": null, "clean": "The criterion was met by all candidates."}
+{"idx": 256, "s_bad": "More than one file was corrupted overnight.", "cats": null, "clean": "More than one file was corrupted overnight."}
+{"idx": 257, "s_bad": "A number of files were corrupted overnight.", "cats": null, "clean": "A number of files were corrupted overnight."}
+{"idx": 258, "s_bad": "The number of corrupted files was small.", "cats": null, "clean": "The number of corrupted files was small."}
+{"idx": 259, "s_bad": "The team that wins the final gets the cup.", "cats": null, "clean": "The team that wins the final gets the cup."}
+{"idx": 260, "s_bad": "There is a free concert in the park tonight.", "cats": null, "clean": "There is a free concert in the park tonight."}
+{"idx": 261, "s_bad": "There are free concerts in the park all summer.", "cats": null, "clean": "There are free concerts in the park all summer."}
+{"idx": 262, "s_bad": "Here is the key you were looking for.", "cats": null, "clean": "Here is the key you were looking for."}
+{"idx": 263, "s_bad": "Here are the keys you were looking for.", "cats": null, "clean": "Here are the keys you were looking for."}
+{"idx": 264, "s_bad": "She's the colleague I told you about.", "cats": null, "clean": "She's the colleague I told you about."}
+{"idx": 265, "s_bad": "That's the office I used to work in.", "cats": null, "clean": "That's the office I used to work in."}
+{"idx": 266, "s_bad": "Which candidate did you vote for?", "cats": null, "clean": "Which candidate did you vote for?"}
+{"idx": 267, "s_bad": "To whom should we address the complaint?", "cats": null, "clean": "To whom should we address the complaint?"}
+{"idx": 268, "s_bad": "Whom did the committee select?", "cats": null, "clean": "Whom did the committee select?"}
+{"idx": 269, "s_bad": "Who called the meeting this time?", "cats": null, "clean": "Who called the meeting this time?"}
+{"idx": 270, "s_bad": "She is one of those managers who delegate everything.", "cats": null, "clean": "She is one of those managers who delegate everything."}
+{"idx": 271, "s_bad": "He is one of those managers who delegates everything.", "cats": null, "clean": "He is one of those managers who delegates everything."}
+{"idx": 272, "s_bad": "It is I who am responsible for the delay.", "cats": null, "clean": "It is I who am responsible for the delay."}
+{"idx": 273, "s_bad": "It is me who is responsible for the delay.", "cats": null, "clean": "It is me who is responsible for the delay."}
+{"idx": 274, "s_bad": "Not one of the samples was contaminated.", "cats": null, "clean": "Not one of the samples was contaminated."}
+{"idx": 275, "s_bad": "Every one of the samples was contaminated.", "cats": null, "clean": "Every one of the samples was contaminated."}
+{"idx": 276, "s_bad": "All the samples were contaminated.", "cats": null, "clean": "All the samples were contaminated."}
+{"idx": 277, "s_bad": "None of the samples were contaminated.", "cats": null, "clean": "None of the samples were contaminated."}
+{"idx": 278, "s_bad": "Neither the manager nor the staff were informed.", "cats": null, "clean": "Neither the manager nor the staff were informed."}
+{"idx": 279, "s_bad": "Either the manager or the assistant has the key.", "cats": null, "clean": "Either the manager or the assistant has the key."}
+{"idx": 280, "s_bad": "If I were in charge, I would postpone the launch.", "cats": null, "clean": "If I were in charge, I would postpone the launch."}
+{"idx": 281, "s_bad": "I wish I were somewhere warmer this week.", "cats": null, "clean": "I wish I were somewhere warmer this week."}
+{"idx": 282, "s_bad": "God save the King, as they say.", "cats": null, "clean": "God save the King, as they say."}
+{"idx": 283, "s_bad": "Long live the champions of the tournament.", "cats": null, "clean": "Long live the champions of the tournament."}
+{"idx": 284, "s_bad": "So heavy was the box that two porters carried it.", "cats": null, "clean": "So heavy was the box that two porters carried it."}
+{"idx": 285, "s_bad": "Rarely does the shop open before ten.", "cats": null, "clean": "Rarely does the shop open before ten."}
+{"idx": 286, "s_bad": "Not once did she complain about the roster.", "cats": null, "clean": "Not once did she complain about the roster."}
+{"idx": 287, "s_bad": "Under no circumstances should the files be shared.", "cats": null, "clean": "Under no circumstances should the files be shared."}
+{"idx": 288, "s_bad": "Seldom have we seen such a close final.", "cats": null, "clean": "Seldom have we seen such a close final."}
+{"idx": 289, "s_bad": "Blessed are the peacemakers, the reading concluded.", "cats": null, "clean": "Blessed are the peacemakers, the reading concluded."}
+{"idx": 290, "s_bad": "We're halfway through the audit already.", "cats": null, "clean": "We're halfway through the audit already."}
+{"idx": 291, "s_bad": "They've moved the AGM to the fifteenth.", "cats": null, "clean": "They've moved the AGM to the fifteenth."}
+{"idx": 292, "s_bad": "I'd have joined you if the flights were cheaper.", "cats": null, "clean": "I'd have joined you if the flights were cheaper."}
+{"idx": 293, "s_bad": "She'd been running the branch since 2019.", "cats": null, "clean": "She'd been running the branch since 2019."}
+{"idx": 294, "s_bad": "Who's coming to the site visit on Thursday?", "cats": null, "clean": "Who's coming to the site visit on Thursday?"}
+{"idx": 295, "s_bad": "Whose safety boots are these by the door?", "cats": null, "clean": "Whose safety boots are these by the door?"}
+{"idx": 296, "s_bad": "Its battery lasts for two full shifts.", "cats": null, "clean": "Its battery lasts for two full shifts."}
+{"idx": 297, "s_bad": "It's the third outage this month alone.", "cats": null, "clean": "It's the third outage this month alone."}
+{"idx": 298, "s_bad": "Their caravan is parked by the estuary.", "cats": null, "clean": "Their caravan is parked by the estuary."}
+{"idx": 299, "s_bad": "They're predicting a warm, dry autumn.", "cats": null, "clean": "They're predicting a warm, dry autumn."}
+{"idx": 300, "s_bad": "You're welcome to stay for morning tea.", "cats": null, "clean": "You're welcome to stay for morning tea."}
+{"idx": 301, "s_bad": "Your name is first on the roster this time.", "cats": null, "clean": "Your name is first on the roster this time."}
+{"idx": 302, "s_bad": "Then we said our goodbyes at the ferry terminal.", "cats": null, "clean": "Then we said our goodbyes at the ferry terminal."}
+{"idx": 303, "s_bad": "He is fitter than he was last winter.", "cats": null, "clean": "He is fitter than he was last winter."}
+{"idx": 304, "s_bad": "The queue moved faster than expected.", "cats": null, "clean": "The queue moved faster than expected."}
+{"idx": 305, "s_bad": "The medicine had an immediate effect.", "cats": null, "clean": "The medicine had an immediate effect."}
+{"idx": 306, "s_bad": "The humidity affects the timber badly.", "cats": null, "clean": "The humidity affects the timber badly."}
+{"idx": 307, "s_bad": "We accepted the quote from the first builder.", "cats": null, "clean": "We accepted the quote from the first builder."}
+{"idx": 308, "s_bad": "Everyone except the duty officer attended.", "cats": null, "clean": "Everyone except the duty officer attended."}
+{"idx": 309, "s_bad": "Her advice was to seek a second opinion.", "cats": null, "clean": "Her advice was to seek a second opinion."}
+{"idx": 310, "s_bad": "Please advise the incoming tenants promptly.", "cats": null, "clean": "Please advise the incoming tenants promptly."}
+{"idx": 311, "s_bad": "The bolt was loose after the service.", "cats": null, "clean": "The bolt was loose after the service."}
+{"idx": 312, "s_bad": "Try not to lose the spare remote again.", "cats": null, "clean": "Try not to lose the spare remote again."}
+{"idx": 313, "s_bad": "The pipes are lead-free, per the report.", "cats": null, "clean": "The pipes are lead-free, per the report."}
+{"idx": 314, "s_bad": "She led us through the winding display halls.", "cats": null, "clean": "She led us through the winding display halls."}
+{"idx": 315, "s_bad": "The principal cause was a failed seal.", "cats": null, "clean": "The principal cause was a failed seal."}
+{"idx": 316, "s_bad": "Her principles would not allow the shortcut.", "cats": null, "clean": "Her principles would not allow the shortcut."}
+{"idx": 317, "s_bad": "We stayed inside whether or not it rained.", "cats": null, "clean": "We stayed inside whether or not it rained."}
+{"idx": 318, "s_bad": "The wether was separated from the ewes.", "cats": null, "clean": "The wether was separated from the ewes."}
+{"idx": 319, "s_bad": "Everyday noise is part of city living.", "cats": null, "clean": "Everyday noise is part of city living."}
+{"idx": 320, "s_bad": "The tide is higher than it was at noon.", "cats": null, "clean": "The tide is higher than it was at noon."}
+{"idx": 321, "s_bad": "She has been quilting for over a decade.", "cats": null, "clean": "She has been quilting for over a decade."}
+{"idx": 322, "s_bad": "Thee and thou have largely vanished from speech.", "cats": null, "clean": "Thee and thou have largely vanished from speech."}
+{"idx": 323, "s_bad": "I do love a good thunderstorm in summer.", "cats": null, "clean": "I do love a good thunderstorm in summer."}
+{"idx": 324, "s_bad": "Do sit down and make yourself at home.", "cats": null, "clean": "Do sit down and make yourself at home."}
+{"idx": 325, "s_bad": "He does look like his father, everyone says.", "cats": null, "clean": "He does look like his father, everyone says."}
+{"idx": 326, "s_bad": "Colour charts are available at the counter.", "cats": null, "clean": "Colour charts are available at the counter."}
+{"idx": 327, "s_bad": "The theatre troupe rehearsed until midnight.", "cats": null, "clean": "The theatre troupe rehearsed until midnight."}
+{"idx": 328, "s_bad": "We analysed the trial data on Wednesday.", "cats": null, "clean": "We analysed the trial data on Wednesday."}
+{"idx": 329, "s_bad": "The plough sat unused in the implement shed.", "cats": null, "clean": "The plough sat unused in the implement shed."}
+{"idx": 330, "s_bad": "He dreamt of sailing the fiords again.", "cats": null, "clean": "He dreamt of sailing the fiords again."}
+{"idx": 331, "s_bad": "The tyre centre quoted us for four new tyres.", "cats": null, "clean": "The tyre centre quoted us for four new tyres."}
+{"idx": 332, "s_bad": "Our kerbside collection shifted to Thursdays.", "cats": null, "clean": "Our kerbside collection shifted to Thursdays."}
+{"idx": 333, "s_bad": "The aluminium dinghy is light enough to carry.", "cats": null, "clean": "The aluminium dinghy is light enough to carry."}
+{"idx": 334, "s_bad": "Mum's aeroengineer friend visited Taupō.", "cats": null, "clean": "Mum's aeroengineer friend visited Taupō."}
+{"idx": 335, "s_bad": "The centre back cleared the ball superbly.", "cats": null, "clean": "The centre back cleared the ball superbly."}
+{"idx": 336, "s_bad": "She's a defence analyst for the ministry.", "cats": null, "clean": "She's a defence analyst for the ministry."}
+{"idx": 337, "s_bad": "The programme for the gala is printed.", "cats": null, "clean": "The programme for the gala is printed."}
+{"idx": 338, "s_bad": "He practises scales before school each day.", "cats": null, "clean": "He practises scales before school each day."}
+{"idx": 339, "s_bad": "The license plate was obscured by mud.", "cats": null, "clean": "The license plate was obscured by mud."}
+{"idx": 340, "s_bad": "The color proof matched the mock-up exactly.", "cats": null, "clean": "The color proof matched the mock-up exactly."}
+{"idx": 341, "s_bad": "Our organization's catalog went live today.", "cats": null, "clean": "Our organization's catalog went live today."}
+{"idx": 342, "s_bad": "The meter was read on the second of the month.", "cats": null, "clean": "The meter was read on the second of the month."}
+{"idx": 343, "s_bad": "I practiced until the recital felt secure.", "cats": null, "clean": "I practiced until the recital felt secure."}
+{"idx": 344, "s_bad": "The labor agreement was signed in May.", "cats": null, "clean": "The labor agreement was signed in May."}
+{"idx": 345, "s_bad": "They analyzed the error logs in depth.", "cats": null, "clean": "They analyzed the error logs in depth."}
+{"idx": 346, "s_bad": "Hon. Judith Collins opened the new wing.", "cats": null, "clean": "Hon. Judith Collins opened the new wing."}
+{"idx": 347, "s_bad": "The Hon. Minister will visit on Friday.", "cats": null, "clean": "The Hon. Minister will visit on Friday."}
+{"idx": 348, "s_bad": "Sir Āpirana Ngata features in the exhibit.", "cats": null, "clean": "Sir Āpirana Ngata features in the exhibit."}
+{"idx": 349, "s_bad": "Te Papa closes at six during winter.", "cats": null, "clean": "Te Papa closes at six during winter."}
+{"idx": 350, "s_bad": "The Ōtākou marae hosts the hui next week.", "cats": null, "clean": "The Ōtākou marae hosts the hui next week."}
+{"idx": 351, "s_bad": "The Whanganui River trails reopened today.", "cats": null, "clean": "The Whanganui River trails reopened today."}
+{"idx": 352, "s_bad": "State Highway 1 was closed at Dome Valley.", "cats": null, "clean": "State Highway 1 was closed at Dome Valley."}
+{"idx": 353, "s_bad": "The Wairarapa line runs through the tunnel.", "cats": null, "clean": "The Wairarapa line runs through the tunnel."}
+{"idx": 354, "s_bad": "Chapter 12 examines the Komintern archives.", "cats": null, "clean": "Chapter 12 examines the Komintern archives."}
+{"idx": 355, "s_bad": "Figure 7 plots the sine and cosine curves.", "cats": null, "clean": "Figure 7 plots the sine and cosine curves."}
+{"idx": 356, "s_bad": "The control group received 5 mg daily.", "cats": null, "clean": "The control group received 5 mg daily."}
+{"idx": 357, "s_bad": "We shipped 2,304 units to the depot.", "cats": null, "clean": "We shipped 2,304 units to the depot."}
+{"idx": 358, "s_bad": "Losses fell to $2.1 million this quarter.", "cats": null, "clean": "Losses fell to $2.1 million this quarter."}
+{"idx": 359, "s_bad": "Interest accrues at 4.75% per annum.", "cats": null, "clean": "Interest accrues at 4.75% per annum."}
+{"idx": 360, "s_bad": "The flight departs at 07:45 on the dot.", "cats": null, "clean": "The flight departs at 07:45 on the dot."}
+{"idx": 361, "s_bad": "Room 12B is at the end of the corridor.", "cats": null, "clean": "Room 12B is at the end of the corridor."}
+{"idx": 362, "s_bad": "The firmware stayed at version 1.9.2.", "cats": null, "clean": "The firmware stayed at version 1.9.2."}
+{"idx": 363, "s_bad": "IPv6 adoption reached 40% this year.", "cats": null, "clean": "IPv6 adoption reached 40% this year."}
+{"idx": 364, "s_bad": "The id 0xFF was never written to flash.", "cats": null, "clean": "The id 0xFF was never written to flash."}
+{"idx": 365, "s_bad": "Her email is h.rimene@example.ac.nz.", "cats": null, "clean": "Her email is h.rimene@example.ac.nz."}
+{"idx": 366, "s_bad": "Ping the host at 192.168.1.11, please.", "cats": null, "clean": "Ping the host at 192.168.1.11, please."}
+{"idx": 367, "s_bad": "Fetch https://example.org/specs/2.3 first.", "cats": null, "clean": "Fetch https://example.org/specs/2.3 first."}
+{"idx": 368, "s_bad": "The variable kPoints holds the k-d tree.", "cats": null, "clean": "The variable kPoints holds the k-d tree."}
+{"idx": 369, "s_bad": "Rerun `make clean && make all` now.", "cats": null, "clean": "Rerun `make clean && make all` now."}
+{"idx": 370, "s_bad": "The path is /var/log/nginx/error.log.", "cats": null, "clean": "The path is /var/log/nginx/error.log."}
+{"idx": 371, "s_bad": "Export CSVs with the --no-headers flag.", "cats": null, "clean": "Export CSVs with the --no-headers flag."}
+{"idx": 372, "s_bad": "Node LTS 22.11 is the new baseline.", "cats": null, "clean": "Node LTS 22.11 is the new baseline."}
+{"idx": 373, "s_bad": "The user's home is /home/wētā, oddly.", "cats": null, "clean": "The user's home is /home/wētā, oddly."}
+{"idx": 374, "s_bad": "Call ext. 4419 if the lift stalls.", "cats": null, "clean": "Call ext. 4419 if the lift stalls."}
+{"idx": 375, "s_bad": "Her quote for the spouting was $840 plus GST.", "cats": null, "clean": "Her quote for the spouting was $840 plus GST."}
+{"idx": 376, "s_bad": "The council rates rose 6.7% this year.", "cats": null, "clean": "The council rates rose 6.7% this year."}
+{"idx": 377, "s_bad": "Buy 500 g of mince and two onions.", "cats": null, "clean": "Buy 500 g of mince and two onions."}
+{"idx": 378, "s_bad": "The spanner set is in the second drawer.", "cats": null, "clean": "The spanner set is in the second drawer."}
+{"idx": 379, "s_bad": "He needs a 3/8-inch drive for the job.", "cats": null, "clean": "He needs a 3/8-inch drive for the job."}
+{"idx": 380, "s_bad": "The marae raised $12,000 for the new roof.", "cats": null, "clean": "The marae raised $12,000 for the new roof."}
+{"idx": 381, "s_bad": "We need 1.5 litres of paint primer.", "cats": null, "clean": "We need 1.5 litres of paint primer."}
+{"idx": 382, "s_bad": "The wifi is wētā-house, all lowercase.", "cats": null, "clean": "The wifi is wētā-house, all lowercase."}
+{"idx": 383, "s_bad": "Run the tests with pytest -q, please.", "cats": null, "clean": "Run the tests with pytest -q, please."}
+{"idx": 384, "s_bad": "Aye, the wharf gate locks at seven.", "cats": null, "clean": "Aye, the wharf gate locks at seven."}
+{"idx": 385, "s_bad": "She took the 6:40 bus from Kelburn.", "cats": null, "clean": "She took the 6:40 bus from Kelburn."}
+{"idx": 386, "s_bad": "The zoom is at bit.ly/3xK2 (internal only).", "cats": null, "clean": "The zoom is at bit.ly/3xK2 (internal only)."}
+{"idx": 387, "s_bad": "Set the thermostat to 19 degrees tonight.", "cats": null, "clean": "Set the thermostat to 19 degrees tonight."}
+{"idx": 388, "s_bad": "Their booking is under NZ4821BK.", "cats": null, "clean": "Their booking is under NZ4821BK."}
+{"idx": 389, "s_bad": "The workbook is named Q3_FY26_PnL.xlsx.", "cats": null, "clean": "The workbook is named Q3_FY26_PnL.xlsx."}
+{"idx": 390, "s_bad": "Ship to PO Box 4710, Christchurch.", "cats": null, "clean": "Ship to PO Box 4710, Christchurch."}
+{"idx": 391, "s_bad": "Her NHI number is ZAA4-2210.", "cats": null, "clean": "Her NHI number is ZAA4-2210."}
+{"idx": 392, "s_bad": "Ask at the i-SITE for track conditions.", "cats": null, "clean": "Ask at the i-SITE for track conditions."}
+{"idx": 393, "s_bad": "The Heaphy Track bookings open in June.", "cats": null, "clean": "The Heaphy Track bookings open in June."}
+{"idx": 394, "s_bad": "We ordered 15 devices, not 50.", "cats": null, "clean": "We ordered 15 devices, not 50."}
+{"idx": 395, "s_bad": "The shipment contained 15 devices in total.", "cats": null, "clean": "The shipment contained 15 devices in total."}
+{"idx": 396, "s_bad": "She turned 50 last Thursday, apparently.", "cats": null, "clean": "She turned 50 last Thursday, apparently."}
+{"idx": 397, "s_bad": "They can confirm the booking for the 15th.", "cats": null, "clean": "They can confirm the booking for the 15th."}
+{"idx": 398, "s_bad": "The committee did not approve the transfer.", "cats": null, "clean": "The committee did not approve the transfer."}
+{"idx": 399, "s_bad": "I did not say that the meeting was cancelled.", "cats": null, "clean": "I did not say that the meeting was cancelled."}
+{"idx": 400, "s_bad": "Never send the invoice before the audit closes.", "cats": null, "clean": "Never send the invoice before the audit closes."}
+{"idx": 401, "s_bad": "She has never been late for a shift.", "cats": null, "clean": "She has never been late for a shift."}
+{"idx": 402, "s_bad": "No students failed the prerequisite test.", "cats": null, "clean": "No students failed the prerequisite test."}
+{"idx": 403, "s_bad": "We cannot accept the amended terms.", "cats": null, "clean": "We cannot accept the amended terms."}
+{"idx": 404, "s_bad": "The machine cannot run the legacy build.", "cats": null, "clean": "The machine cannot run the legacy build."}
+{"idx": 405, "s_bad": "Can the courier deliver before noon?", "cats": null, "clean": "Can the courier deliver before noon?"}
+{"idx": 406, "s_bad": "You may leave early if the work is done.", "cats": null, "clean": "You may leave early if the work is done."}
+{"idx": 407, "s_bad": "The applicant may not have received the letter.", "cats": null, "clean": "The applicant may not have received the letter."}
+{"idx": 408, "s_bad": "All visitors must wear closed shoes.", "cats": null, "clean": "All visitors must wear closed shoes."}
+{"idx": 409, "s_bad": "You must not park in the loading zone.", "cats": null, "clean": "You must not park in the loading zone."}
+{"idx": 410, "s_bad": "If the fund reaches $50,000, we start building.", "cats": null, "clean": "If the fund reaches $50,000, we start building."}
+{"idx": 411, "s_bad": "If it rains on Saturday, the fair moves indoors.", "cats": null, "clean": "If it rains on Saturday, the fair moves indoors."}
+{"idx": 412, "s_bad": "Had the shipment arrived, we would have shipped 200 units.", "cats": null, "clean": "Had the shipment arrived, we would have shipped 200 units."}
+{"idx": 413, "s_bad": "Unless the board objects, the sale completes on the 30th.", "cats": null, "clean": "Unless the board objects, the sale completes on the 30th."}
+{"idx": 414, "s_bad": "She said, \"We did not approve the request.\"", "cats": null, "clean": "She said, \"We did not approve the request.\""}
+{"idx": 415, "s_bad": "The notice states: \"No refunds after 14 days.\"", "cats": null, "clean": "The notice states: \"No refunds after 14 days.\""}
+{"idx": 416, "s_bad": "He quoted: \"Neither option was acceptable.\"", "cats": null, "clean": "He quoted: \"Neither option was acceptable.\""}
+{"idx": 417, "s_bad": "The consultant approved the merger; we did not.", "cats": null, "clean": "The consultant approved the merger; we did not."}
+{"idx": 418, "s_bad": "The Wellington office approved it, not the Auckland one.", "cats": null, "clean": "The Wellington office approved it, not the Auckland one."}
+{"idx": 419, "s_bad": "Send the draft to Ana, not to Jordan.", "cats": null, "clean": "Send the draft to Ana, not to Jordan."}
+{"idx": 420, "s_bad": "Dr. Kimura will perform the procedure on the 12th.", "cats": null, "clean": "Dr. Kimura will perform the procedure on the 12th."}
+{"idx": 421, "s_bad": "Mr. Nyman declined the invitation politely.", "cats": null, "clean": "Mr. Nyman declined the invitation politely."}
+{"idx": 422, "s_bad": "Mrs. Ramanathan authorised the purchase of 12 chairs.", "cats": null, "clean": "Mrs. Ramanathan authorised the purchase of 12 chairs."}
+{"idx": 423, "s_bad": "Her appointment with Dr. Saleh is at 4:30.", "cats": null, "clean": "Her appointment with Dr. Saleh is at 4:30."}
+{"idx": 424, "s_bad": "Whaea Mere rang about the hui on Monday.", "cats": null, "clean": "Whaea Mere rang about the hui on Monday."}
+{"idx": 425, "s_bad": "The message from Fatima arrived at 23:40.", "cats": null, "clean": "The message from Fatima arrived at 23:40."}
+{"idx": 426, "s_bad": "Kofi asked whether the price included GST.", "cats": null, "clean": "Kofi asked whether the price included GST."}
+{"idx": 427, "s_bad": "The order from Akshata's firm totalled $3,400.", "cats": null, "clean": "The order from Akshata's firm totalled $3,400."}
+{"idx": 428, "s_bad": "Priya's team completed the audit two days early.", "cats": null, "clean": "Priya's team completed the audit two days early."}
+{"idx": 429, "s_bad": "She gave the notes to him, not to me.", "cats": null, "clean": "She gave the notes to him, not to me."}
+{"idx": 430, "s_bad": "They told her, not him, about the change.", "cats": null, "clean": "They told her, not him, about the change."}
+{"idx": 431, "s_bad": "The keys are hers, not his, I think.", "cats": null, "clean": "The keys are hers, not his, I think."}
+{"idx": 432, "s_bad": "The dog chased its own tail, not the cat's.", "cats": null, "clean": "The dog chased its own tail, not the cat's."}
+{"idx": 433, "s_bad": "He blamed the courier, not the supplier.", "cats": null, "clean": "He blamed the courier, not the supplier."}
+{"idx": 434, "s_bad": "We invoiced the vendor, not the client.", "cats": null, "clean": "We invoiced the vendor, not the client."}
+{"idx": 435, "s_bad": "The award went to her section, not ours.", "cats": null, "clean": "The award went to her section, not ours."}
+{"idx": 436, "s_bad": "Because the flood damaged the bridge, we rerouted the freight.", "cats": null, "clean": "Because the flood damaged the bridge, we rerouted the freight."}
+{"idx": 437, "s_bad": "The outage was caused by a failed patch, not a hack.", "cats": null, "clean": "The outage was caused by a failed patch, not a hack."}
+{"idx": 438, "s_bad": "Sales rose because the price fell by 10%.", "cats": null, "clean": "Sales rose because the price fell by 10%."}
+{"idx": 439, "s_bad": "The session was moved from Monday to Thursday.", "cats": null, "clean": "The session was moved from Monday to Thursday."}
+{"idx": 440, "s_bad": "The AGM is on 12 May, not 12 March.", "cats": null, "clean": "The AGM is on 12 May, not 12 March."}
+{"idx": 441, "s_bad": "We close at 5 p.m. on weekdays only.", "cats": null, "clean": "We close at 5 p.m. on weekdays only."}
+{"idx": 442, "s_bad": "The discount applies from the 1st to the 15th.", "cats": null, "clean": "The discount applies from the 1st to the 15th."}
+{"idx": 443, "s_bad": "Summer hours start on 1 December this year.", "cats": null, "clean": "Summer hours start on 1 December this year."}
+{"idx": 444, "s_bad": "The memorial is at the school, not at the hall.", "cats": null, "clean": "The memorial is at the school, not at the hall."}
+{"idx": 445, "s_bad": "Her flight lands at 11:15 p.m., if it is on time.", "cats": null, "clean": "Her flight lands at 11:15 p.m., if it is on time."}
+{"idx": 446, "s_bad": "The prescription says one tablet twice a day.", "cats": null, "clean": "The prescription says one tablet twice a day."}
+{"idx": 447, "s_bad": "Take 10 ml of the syrup before meals.", "cats": null, "clean": "Take 10 ml of the syrup before meals."}
+{"idx": 448, "s_bad": "The recipe calls for 250 g of butter.", "cats": null, "clean": "The recipe calls for 250 g of butter."}
+{"idx": 449, "s_bad": "Only 8 of the 30 seats remain unsold.", "cats": null, "clean": "Only 8 of the 30 seats remain unsold."}
+{"idx": 450, "s_bad": "The tunnel is 2.4 kilometres long.", "cats": null, "clean": "The tunnel is 2.4 kilometres long."}
+{"idx": 451, "s_bad": "Membership costs $65 a year, students half.", "cats": null, "clean": "Membership costs $65 a year, students half."}
+{"idx": 452, "s_bad": "Our target is 98% uptime this quarter.", "cats": null, "clean": "Our target is 98% uptime this quarter."}
+{"idx": 453, "s_bad": "The report covers 2024 only, not 2023.", "cats": null, "clean": "The report covers 2024 only, not 2023."}
+{"idx": 454, "s_bad": "Version 4.2 fixed 17 bugs in total.", "cats": null, "clean": "Version 4.2 fixed 17 bugs in total."}
+{"idx": 455, "s_bad": "The lockout resets after 30 seconds.", "cats": null, "clean": "The lockout resets after 30 seconds."}
+{"idx": 456, "s_bad": "The appliance draws 9 amps at peak.", "cats": null, "clean": "The appliance draws 9 amps at peak."}
+{"idx": 457, "s_bad": "The top speed is 220 km/h downhill, on paper.", "cats": null, "clean": "The top speed is 220 km/h downhill, on paper."}
+{"idx": 458, "s_bad": "Auckland is 654 km from Wellington by road.", "cats": null, "clean": "Auckland is 654 km from Wellington by road."}
+{"idx": 459, "s_bad": "She memorised pi to 40 decimal places.", "cats": null, "clean": "She memorised pi to 40 decimal places."}
+{"idx": 460, "s_bad": "The old mill ground 3 tonnes of wheat daily.", "cats": null, "clean": "The old mill ground 3 tonnes of wheat daily."}
+{"idx": 461, "s_bad": "His marathon time was 3:41:20, a PB.", "cats": null, "clean": "His marathon time was 3:41:20, a PB."}
+{"idx": 462, "s_bad": "The pavlova needs 45 minutes in the oven.", "cats": null, "clean": "The pavlova needs 45 minutes in the oven."}
+{"idx": 463, "s_bad": "We raised $8,750 for the hospice, combined.", "cats": null, "clean": "We raised $8,750 for the hospice, combined."}
+{"idx": 464, "s_bad": "Their phone number is 021 555 0192, work only.", "cats": null, "clean": "Their phone number is 021 555 0192, work only."}
+{"idx": 465, "s_bad": "The quota is 60 units per school, maximum.", "cats": null, "clean": "The quota is 60 units per school, maximum."}
+{"idx": 466, "s_bad": "Almost 85% of the samples passed the assay.", "cats": null, "clean": "Almost 85% of the samples passed the assay."}
+{"idx": 467, "s_bad": "The battery degraded to 82% of capacity.", "cats": null, "clean": "The battery degraded to 82% of capacity."}
+{"idx": 468, "s_bad": "I am not amused by the delay, frankly.", "cats": null, "clean": "I am not amused by the delay, frankly."}
+{"idx": 469, "s_bad": "We never said the plan was final.", "cats": null, "clean": "We never said the plan was final."}
+{"idx": 470, "s_bad": "Nothing was decided at the hui today.", "cats": null, "clean": "Nothing was decided at the hui today."}
+{"idx": 471, "s_bad": "Neither party accepted the arbitrator's figure.", "cats": null, "clean": "Neither party accepted the arbitrator's figure."}
+{"idx": 472, "s_bad": "The gap between the shelves is 30 cm.", "cats": null, "clean": "The gap between the shelves is 30 cm."}
+{"idx": 473, "s_bad": "Her hāngī feeds 40 people, easily.", "cats": null, "clean": "Her hāngī feeds 40 people, easily."}
+{"idx": 474, "s_bad": "The wharf closes between 2 and 4 p.m.", "cats": null, "clean": "The wharf closes between 2 and 4 p.m."}
+{"idx": 475, "s_bad": "Kilometre markers show 78.5 at the gate.", "cats": null, "clean": "Kilometre markers show 78.5 at the gate."}
+{"idx": 476, "s_bad": "The invoice, GST exclusive, is $1,015.", "cats": null, "clean": "The invoice, GST exclusive, is $1,015."}
+{"idx": 477, "s_bad": "The nearest defibrillator is two doors down.", "cats": null, "clean": "The nearest defibrillator is two doors down."}
+{"idx": 478, "s_bad": "Her blood pressure reads 128 over 80.", "cats": null, "clean": "Her blood pressure reads 128 over 80."}
+{"idx": 479, "s_bad": "The lens is a 50 mm prime, second-hand.", "cats": null, "clean": "The lens is a 50 mm prime, second-hand."}
+{"idx": 480, "s_bad": "They rebudgeted from $420 to $480 weekly.", "cats": null, "clean": "They rebudgeted from $420 to $480 weekly."}
+{"idx": 481, "s_bad": "Her grandmother's birth year was 1931.", "cats": null, "clean": "Her grandmother's birth year was 1931."}
+{"idx": 482, "s_bad": "The tremor measured 4.8 on the scale.", "cats": null, "clean": "The tremor measured 4.8 on the scale."}

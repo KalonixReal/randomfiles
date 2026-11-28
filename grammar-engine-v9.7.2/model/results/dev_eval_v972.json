@@ -1,0 +1,18 @@
+{
+ "split": "data_built/dev.jsonl",
+ "threshold": 1,
+ "n": 251,
+ "clean": 140,
+ "errs": 111,
+ "P": 0.92,
+ "R": 0.92,
+ "F05": 0.92,
+ "tp": 103,
+ "fp": 9,
+ "fn": 9,
+ "FA": 0,
+ "cleanFlagged": 0,
+ "latency_ms_p50": 0,
+ "latency_ms_p90": 1,
+ "false_alerts": []
+}

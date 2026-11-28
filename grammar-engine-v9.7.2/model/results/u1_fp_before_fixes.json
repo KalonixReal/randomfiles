@@ -1,0 +1,28 @@
+[
+ {
+  "text": "The police have cordoned off the area near the wharf.",
+  "cat": [
+   "clean"
+  ],
+  "origin": "authored-natural",
+  "span": "have",
+  "rep": "has",
+  "key": "undefined|",
+  "start": 11,
+  "end": 15,
+  "msg": "Contextual grammar suggestion (neural model)."
+ },
+ {
+  "text": "It is I who am to blame for the delay.",
+  "cat": [
+   "clean"
+  ],
+  "origin": "authored-natural",
+  "span": "is",
+  "rep": "are",
+  "key": "undefined|",
+  "start": 3,
+  "end": 5,
+  "msg": "Contextual grammar suggestion (neural model)."
+ }
+]

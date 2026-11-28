@@ -1,0 +1,896 @@
+{
+ "x2": [
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0002,
+   "rule": "arrived_to",
+   "text": "We arrived to the marae before dawn."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.4968,
+   "rule": "an_consonant",
+   "text": "We booked an hotel near the stadium."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0007,
+   "rule": "affect_effect_noun",
+   "text": "The weather had a big affect on attendance."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0092,
+   "rule": "your_ing",
+   "text": "Your late again this morning."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.1601,
+   "rule": "noun_been_poss",
+   "text": "It's raining and the dogs been outside for hours."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "poss_person_s",
+   "text": "The teachers desk was covered in marking."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.8476,
+   "rule": "plural_fix",
+   "text": "We bought new furnitures for the lounge."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 1,
+   "rule": "its_verb_ing",
+   "text": "Its going to be a long winter."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "loose_lose",
+   "text": "Loose the attitude and listen up."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.8611,
+   "rule": "have_pp",
+   "text": "She had went home before the rain started."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.471,
+   "rule": "be_agree",
+   "text": "I am agree with the proposal."
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.8789,
+   "rule": "wh_pl_np_is",
+   "text": "Where the students is going after the trip?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.959,
+   "rule": "be_was_plural",
+   "text": "We was told that the trip might be cancelled."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9816,
+   "rule": "more_compar",
+   "text": "He is more taller than his brother."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "double_compar_superl",
+   "text": "This is the most best option we have."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0372,
+   "rule": "subj_seen_saw",
+   "text": "I seen the results yesterday afternoon."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9951,
+   "rule": "their_theyre_verb",
+   "text": "Their going to the beach tomorrow."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.259,
+   "rule": "depend_of",
+   "text": "The success depends of the weather."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0235,
+   "rule": "head_pp_sva",
+   "text": "The list of items are on the desk."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9181,
+   "rule": "arrive_in_venue",
+   "text": "They arrived in the airport two hours early."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0665,
+   "rule": "be_base_ing",
+   "text": "I am work on the caching layer this week."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0001,
+   "rule": "plural_subj_be",
+   "text": "The students is arriving at eight sharp."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.2062,
+   "rule": "a_vowel",
+   "text": "He wants a orange juice with his breakfast."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "do_mistake",
+   "text": "He did a mistake in the calculation."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0545,
+   "rule": "indef_sg_verb",
+   "text": "Everyone in the whanau were at the marae."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9971,
+   "rule": "be_base_reg_pp",
+   "text": "The budget was send to the committee."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.1048,
+   "rule": "the_both",
+   "text": "The both teams played well in the wet."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0142,
+   "rule": "dosupport_pp_base",
+   "text": "Did you seen the size of that kahawai?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9995,
+   "rule": "have_has",
+   "text": "She have finished her homework already."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0006,
+   "rule": "does_3sg_final",
+   "text": "What time does the last bus leaves?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0129,
+   "rule": "keen_in_on",
+   "text": "She is keen in joining the netball club."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9997,
+   "rule": "contraction_apos",
+   "text": "Theyre arriving on the night ferry."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9987,
+   "rule": "discussed_about",
+   "text": "We discussed about the budget for an hour."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.999,
+   "rule": "misspell_map",
+   "text": "She grabbed teh keys and left."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0565,
+   "rule": "prep_and_i_me",
+   "text": "The tickets are for you and I."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "misspell_map",
+   "text": "That was definately the best pie in town."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0021,
+   "rule": "misspell_map",
+   "text": "Please seperate the recycling from the rubbish."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9969,
+   "rule": "misspell_map",
+   "text": "The occurence was reported to the office."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.004,
+   "rule": "her_him_them_start",
+   "text": "Her and her sister are arriving on Friday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0036,
+   "rule": "its_verb_ing",
+   "text": "The dog wagged its tail; its been a good day."
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.9995,
+   "rule": "wh_embedded",
+   "text": "I am not sure why was the meeting cancelled."
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.9575,
+   "rule": "cap_start",
+   "text": "she dont know about the surprise party yet."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9744,
+   "rule": "sva_dont_variants",
+   "text": "she dont know about the surprise party yet."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9992,
+   "rule": "there_is_plural",
+   "text": "There is three options on the table."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9964,
+   "rule": "modal_of",
+   "text": "I could of sworn it was Friday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.5208,
+   "rule": "contraction_apos",
+   "text": "Ive had better coffee, to be honest."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.8416,
+   "rule": "plural_fix",
+   "text": "She gave me some good advices."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.8799,
+   "rule": "one_of_plur",
+   "text": "One of the boys have forgotten his boots."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.3666,
+   "rule": "double_compar_er",
+   "text": "The more louder the crowd got, the worse they played."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0488,
+   "rule": "a_silent_h",
+   "text": "That was a hour well spent."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9534,
+   "rule": "contraction_apos",
+   "text": "Dont forget the sunblock for the beach."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0001,
+   "rule": "misspell_map",
+   "text": "I recieved the invoice on Tuesday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9999,
+   "rule": "their_is",
+   "text": "Their is a problem with the heater."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9997,
+   "rule": "an_yoo",
+   "text": "She is an university student in Dunedin."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9447,
+   "rule": "be_quite",
+   "text": "The principal asked everyone to be quite during assembly."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.703,
+   "rule": "modal_of",
+   "text": "He should of checked the schedule first."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0002,
+   "rule": "almost_people",
+   "text": "Almost people in the office were off sick."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0732,
+   "rule": "almost_people_be",
+   "text": "Almost people in the office were off sick."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.8362,
+   "rule": "modal_of",
+   "text": "We could of won that game, honestly."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.987,
+   "rule": "prep_and_i_me",
+   "text": "Between you and I, the plan needs work."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 1,
+   "rule": "i_broad",
+   "text": "i will send the report when its finished"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.244,
+   "rule": "its_pp_clause",
+   "text": "i will send the report when its finished"
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.0343,
+   "rule": "explain_to_io",
+   "text": "She explained me the problem twice."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0003,
+   "rule": "poss_person_s",
+   "text": "My brothers car is in the garage."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.003,
+   "rule": "less_fewer",
+   "text": "There were less people at the game this week."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0049,
+   "rule": "be_was_plural",
+   "text": "They was driving to Taupo when the tyre blew."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0159,
+   "rule": "prep_next_time",
+   "text": "The report is due on next Monday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.4538,
+   "rule": "misspell_map",
+   "text": "We waited untill the tide turned."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.6302,
+   "rule": "plural_fix",
+   "text": "The team needs more informations."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9606,
+   "rule": "then_than_broad",
+   "text": "Her notes are more tidy then mine."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.5067,
+   "rule": "married_with",
+   "text": "He is married with a nurse from Gisborne."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9972,
+   "rule": "sva_irreg_plur",
+   "text": "The children was excited about the trip."
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.9244,
+   "rule": "me_and_swap",
+   "text": "Me and Dave are painting the fence on Saturday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0176,
+   "rule": "sva_dont_variants",
+   "text": "She don't know about the meeting tomorrow."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0104,
+   "rule": "childs_mens",
+   "text": "The womens team is training tonight."
+  }
+ ],
+ "x3": [
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.2991,
+   "rule": "sva_noun_sing",
+   "text": "The principal have approved the new timetable."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0048,
+   "rule": "sva_noun_plur_3sg",
+   "text": "The players trains every Tuesday morning."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0011,
+   "rule": "sva_irreg_plur",
+   "text": "The children was collected at the gate by the aides."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.5515,
+   "rule": "there_is_plural",
+   "text": "There is several stalls at the market this weekend."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.2026,
+   "rule": "sva_noun_sing",
+   "text": "The warehouse were locked over the holidays."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0347,
+   "rule": "have_pp",
+   "text": "She has wrote a letter to the board."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9986,
+   "rule": "be_base_reg_pp",
+   "text": "The parcel was send to the old address."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.4371,
+   "rule": "dosupport_past_base",
+   "text": "Did you went to the open day in Hamilton?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0003,
+   "rule": "dosupport_past_base",
+   "text": "Did she took the minutes at the hui?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 1,
+   "rule": "have_pp",
+   "text": "He had ate all the kai before we arrived."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0198,
+   "rule": "does_3sg_final",
+   "text": "Where does the trail ends?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "does_3sg_q",
+   "text": "What time does the movie starts tonight?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0005,
+   "rule": "poss_person_s",
+   "text": "My cousins bike needs new tyres."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9654,
+   "rule": "poss_person_s",
+   "text": "The dentists chair reclined fully."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.8927,
+   "rule": "noun_been_poss",
+   "text": "The cats been indoors since lunch."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0498,
+   "rule": "its_pp_clause",
+   "text": "The team will call when its finished."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9989,
+   "rule": "its_a",
+   "text": "Its a pity about the weather."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.5635,
+   "rule": "more_compar",
+   "text": "This route is more shorter than the highway."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "double_compar_superl",
+   "text": "That was the most worst decision of the season."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0018,
+   "rule": "indef_sg_verb",
+   "text": "Everyone in the choir were given a hymn book."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0009,
+   "rule": "indef_sg_verb",
+   "text": "Nobody on the committee have read the brief."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0019,
+   "rule": "head_pp_sva",
+   "text": "The box of parts were left in the shed."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.5234,
+   "rule": "be_agree",
+   "text": "I am agree with the recommendation."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "do_mistake",
+   "text": "We did a mistake with the catering order."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "explain_to_io",
+   "text": "The manager explained us the new rostering process."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0017,
+   "rule": "prep_next_time",
+   "text": "The inspector will visit on next Tuesday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0018,
+   "rule": "prep_yesterday",
+   "text": "Are you free on tomorrow for the site walk?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9236,
+   "rule": "the_both",
+   "text": "The both essays argued the same point."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0007,
+   "rule": "almost_people",
+   "text": "Almost students failed the first quiz."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.5839,
+   "rule": "loose_lose",
+   "text": "Try not to loose your place in the queue."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9358,
+   "rule": "be_quite",
+   "text": "Please be quite while the notices are read."
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.9154,
+   "rule": "wh_embedded_pron",
+   "text": "She asked why was he late this morning."
+  },
+  {
+   "isTP": false,
+   "isClean": false,
+   "perr": 0.9908,
+   "rule": "me_and_swap",
+   "text": "Me and Tama are running the sausage sizzle."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.027,
+   "rule": "arrive_in_venue",
+   "text": "The bus arrives to the depot at six."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.4611,
+   "rule": "depend_of",
+   "text": "It depends of the funding round."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0011,
+   "rule": "interested_about",
+   "text": "She is interested about the nursing course."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.3002,
+   "rule": "a_vowel",
+   "text": "She ate a apple before the game."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.1656,
+   "rule": "a_silent_h",
+   "text": "We waited for a hour outside the hall."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0048,
+   "rule": "affect_effect_noun",
+   "text": "The storm had a big affect on the roof."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9983,
+   "rule": "your_ing",
+   "text": "Your welcome to stay for dinner."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.1043,
+   "rule": "motion_passed_past",
+   "text": "We walked passed the statue in the square."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9825,
+   "rule": "their_theyre_verb",
+   "text": "Their arriving on the red-eye flight."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.7384,
+   "rule": "contraction_apos",
+   "text": "Dont leave the gate open at dusk."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0012,
+   "rule": "were_we_re",
+   "text": "Were going to the pools after school."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9948,
+   "rule": "misspell_map",
+   "text": "The accomodation was basic but warm."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.002,
+   "rule": "misspell_map",
+   "text": "They recieved the forms on Friday."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.96,
+   "rule": "num_advices",
+   "text": "He gave me several advices about the wiring."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.9859,
+   "rule": "modal_of",
+   "text": "You should of booked earlier for the ferry."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0006,
+   "rule": "be_base_ing",
+   "text": "I am study at the polytech this year."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 1,
+   "rule": "i_broad",
+   "text": "i think the kōrero went well today."
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0,
+   "rule": "whq_does_insert",
+   "text": "What time the shop opens on Saturdays?"
+  },
+  {
+   "isTP": true,
+   "isClean": false,
+   "perr": 0.0031,
+   "rule": "whq_3sg_base",
+   "text": "What time the shop opens on Saturdays?"
+  }
+ ],
+ "adv": []
+}

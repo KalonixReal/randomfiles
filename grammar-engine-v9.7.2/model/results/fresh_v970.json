@@ -1,0 +1,108 @@
+{
+ "label": "v970",
+ "html": "notepad-v9.7.0-grammar.html",
+ "rules": "rules-2.7",
+ "veto": null,
+ "split": "data_built/fresh.jsonl",
+ "n": 115,
+ "errors": 50,
+ "clean": 65,
+ "sentence": {
+  "recall": 0.5,
+  "FA": 0.092,
+  "P": 0.806,
+  "F05": 0.718,
+  "detected": 25,
+  "cleanFlagged": 6
+ },
+ "strict": {
+  "P": 0.76,
+  "R": 0.38,
+  "F05": 0.633,
+  "tp": 19,
+  "fp": 6,
+  "fn": 31
+ },
+ "byGenre": {
+  "email": {
+   "n": 25,
+   "det": 13,
+   "fp": 0
+  },
+  "essay": {
+   "n": 25,
+   "det": 12,
+   "fp": 0
+  },
+  "clean-prose": {
+   "n": 65,
+   "det": 0,
+   "fp": 6
+  }
+ },
+ "flaggedClean": [
+  {
+   "text": "Why the process was redesigned remains commercially sensitive.",
+   "findings": [
+    "Why the process was->Why was the process  (wh_front_missing)"
+   ]
+  },
+  {
+   "text": "How it works is explained in the user manual.",
+   "findings": [
+    "How it works is->How are it works  (wh_pl_np_is)"
+   ]
+  },
+  {
+   "text": "Why the ferry was cancelled is still unclear.",
+   "findings": [
+    "Why the ferry was->Why was the ferry  (wh_front_missing)"
+   ]
+  },
+  {
+   "text": "The centre is open on weekends.",
+   "findings": [
+    "open->opened (be_base_reg_pp)"
+   ]
+  },
+  {
+   "text": "I don't know why the process keeps failing.",
+   "findings": [
+    "keeps->keep (sva_noun_plur_3sg)"
+   ]
+  },
+  {
+   "text": "The process is working as expected.",
+   "findings": [
+    "is->are (plural_subj_be)"
+   ]
+  }
+ ],
+ "missedErrors": [
+  "Please find the report attach to this email.",
+  "Thank you for your patients during the outage.",
+  "We regret to inform you that your application has been decline.",
+  "Both proposal were rejected by the board.",
+  "We are currently experience some issues with the payment gateway.",
+  "Please note that the office will be close on Monday.",
+  "Their has been a delay in shipping your order.",
+  "I am interesting in the junior developer role.",
+  "The report which was submitted yesterday have several errors.",
+  "The training session will be hold in the boardroom.",
+  "We apologies for the inconvenience caused.",
+  "Could you check the data and let me know if their accurate?",
+  "The main reason of the failure was poor planning.",
+  "In conclusion, the evidence suggest that the policy works.",
+  "Students which study regularly perform better in exams.",
+  "The number of participants were higher than expected.",
+  "Pollution effects the health of local residents.",
+  "The experiment resulted in a significant improving in results.",
+  "Childrens spend too much time on screens.",
+  "Compared from last year, sales have doubled.",
+  "The results of the survey was surprising.",
+  "Many people believe that social media have a negative influence.",
+  "Neither of the answers are correct.",
+  "The weather in Auckland are unpredictable.",
+  "The essay discuss two main causes of the war."
+ ]
+}

@@ -1,0 +1,25 @@
+shipped engine loaded; threshold = 1 | rules version = rules-2.8
+  X3 miss | She explained me the problem twice. || "me "->"", ""->"to me "
+  X3 miss | Our team have won every match this season. || "have"->"has"
+{
+ "split": "data_built/x2.jsonl",
+ "n": 170,
+ "clean": 97,
+ "strict": {
+  "P": 0.933,
+  "R": 0.886,
+  "F05": 0.923,
+  "tp": 70,
+  "fp": 5,
+  "fn": 9
+ },
+ "combined": {
+  "P": 0.938,
+  "R": 0.962,
+  "F05": 0.943
+ },
+ "FA": 0,
+ "cleanFlagged": 0,
+ "lat_p50": 0,
+ "lat_p90": 1
+}

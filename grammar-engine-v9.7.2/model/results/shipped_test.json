@@ -1,0 +1,13 @@
+{
+ "engine": "SHIPPED (harper_f + js-engine@0.98) [JS truth]",
+ "P": 0.5,
+ "R": 0.41,
+ "F05": 0.479,
+ "tp": 86,
+ "fp": 86,
+ "fn": 124,
+ "FA": 0.117,
+ "MV": 6,
+ "adversarial": 89,
+ "ms_per_sentence": 11.4
+}

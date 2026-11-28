@@ -1,0 +1,74 @@
+{
+ "notepad-v9.7.0-grammar.html": {
+  "sha256": "178e712f237cb8a6e9dd7770dad84054db9b67a28ce7d52266b6c9bda83ffd7d",
+  "bytes": 8702088
+ },
+ "notepad-v9.7.1-grammar.html": {
+  "sha256": "2da3592c2e9240fffa9ef0d4e211a33ace94e4c73d29d36a8a314df4c2274671",
+  "bytes": 8732174
+ },
+ "notepad-v9.7.2-grammar.html": {
+  "sha256": "3d937c848b82f624fa28d8f34bcee91b474e3fb5985040d582c8e02418470a2f",
+  "bytes": 8741970
+ },
+ "engine94.js": {
+  "sha256": "7d716c3e9163f4236a9b9348f90e32d1554750038379b2a88894eef610de528f",
+  "bytes": 23536
+ },
+ "rules2.json": {
+  "sha256": "69ee130dfdf66720747a3c67bed02235b6c683881965a5815e325c3da52cc659",
+  "bytes": 256140
+ },
+ "engine94_data.json": {
+  "sha256": "4624b9e2030879e63b69ec4040f34c2061068ad32801c00da99747830a6e7afb",
+  "bytes": 358221
+ },
+ "engine94_rules.json": {
+  "sha256": "69ee130dfdf66720747a3c67bed02235b6c683881965a5815e325c3da52cc659",
+  "bytes": 256140
+ },
+ "engine94_weights.b64": {
+  "sha256": "1d4d7dd9d032cf20233d02de156e81633018a5f567deb6bd05415148a5858ee7",
+  "bytes": 2049980
+ },
+ "checkpoints/gru3_best.pt": {
+  "sha256": "c8fedb11562a69df6f6fac5d2aed7c1380e7d4b2875134b063b5f9c526dbff05",
+  "bytes": 18620083
+ },
+ "checkpoints/gru3_best.json": {
+  "sha256": "8cdd41776334ae69d53bdc55a5e1d4df3ef10b272f79517471b8aa8db4b69e70",
+  "bytes": 327
+ },
+ "data/train.jsonl": {
+  "sha256": "6260c9f2da551b2d8034ad7a7293024ec686ad674a09460d43e7768519a37458",
+  "bytes": 8955109
+ },
+ "data/dev.jsonl": {
+  "sha256": "fe8b0a0b430594996c38a736cc91430a7d83ec8d47513edef29ef53c5ee8a73c",
+  "bytes": 62250
+ },
+ "data/calib.jsonl": {
+  "sha256": "6457fed16c9d512f53fcfcda4d090158332c0a1842e2ae3785e910052548a18a",
+  "bytes": 45299
+ },
+ "data/test.jsonl": {
+  "sha256": "785b4a6931699a1aae9be8df5bb8610c7c9550da5383109b8e57fecddcc2f488",
+  "bytes": 122865
+ },
+ "data/x2.jsonl": {
+  "sha256": "58722ce078a1e4220bef51ef334fd63da547b15c356ebb3e08aa307bbd5429dc",
+  "bytes": 33768
+ },
+ "data/x3.jsonl": {
+  "sha256": "9c8fda08f647914506b5f16d49477318cef3cd5ef07185c4dd9cf272775e2221",
+  "bytes": 28621
+ },
+ "data/u1_clean.jsonl": {
+  "sha256": "556983e3cfa6cbd6d7e1626f8279ab118b3648fbdac2e5cf3d0d5776351b3eda",
+  "bytes": 20124
+ },
+ "data/train_aug.jsonl": {
+  "sha256": "4723b168eed699072db883ba22d114e1b2f96bde94edb3b04622198bda370d97",
+  "bytes": 134978
+ }
+}

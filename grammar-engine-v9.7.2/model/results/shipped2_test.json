@@ -1,0 +1,114 @@
+{
+ "engine": "SHIPPED v9.5.0 (rules2+tagger@0.995, JS truth, worker code)",
+ "P": 0.7067,
+ "R": 0.5072,
+ "F05": 0.6551,
+ "tp": 106,
+ "fp": 44,
+ "fn": 103,
+ "false_alert_rate": 0.032,
+ "clean_n": 281,
+ "err_n": 202,
+ "meaning_violations": 0,
+ "adversarial_n": 89,
+ "lat_ms_median": 17,
+ "lat_ms_p95": 28,
+ "per_cat": {
+  "sva": {
+   "tp": 31,
+   "fn": 17
+  },
+  "participle": {
+   "tp": 5,
+   "fn": 8
+  },
+  "spelling": {
+   "tp": 2,
+   "fn": 9
+  },
+  "verbform": {
+   "tp": 8,
+   "fn": 16
+  },
+  "homophone": {
+   "tp": 19,
+   "fn": 16
+  },
+  "compar": {
+   "tp": 2,
+   "fn": 2
+  },
+  "plural": {
+   "tp": 0,
+   "fn": 11
+  },
+  "capit": {
+   "tp": 8,
+   "fn": 0
+  },
+  "preposition": {
+   "tp": 4,
+   "fn": 4
+  },
+  "pronoun": {
+   "tp": 4,
+   "fn": 1
+  },
+  "inversion": {
+   "tp": 4,
+   "fn": 3
+  },
+  "do-support": {
+   "tp": 1,
+   "fn": 2
+  },
+  "modal": {
+   "tp": 0,
+   "fn": 1
+  },
+  "punct": {
+   "tp": 13,
+   "fn": 0
+  },
+  "negation": {
+   "tp": 0,
+   "fn": 3
+  },
+  "dup": {
+   "tp": 3,
+   "fn": 0
+  },
+  "informal": {
+   "tp": 0,
+   "fn": 1
+  },
+  "idiom": {
+   "tp": 0,
+   "fn": 1
+  },
+  "tense": {
+   "tp": 0,
+   "fn": 1
+  },
+  "advform": {
+   "tp": 0,
+   "fn": 2
+  },
+  "ordinals": {
+   "tp": 0,
+   "fn": 1
+  },
+  "article": {
+   "tp": 2,
+   "fn": 2
+  },
+  "agr": {
+   "tp": 0,
+   "fn": 1
+  },
+  "missing": {
+   "tp": 0,
+   "fn": 1
+  }
+ }
+}

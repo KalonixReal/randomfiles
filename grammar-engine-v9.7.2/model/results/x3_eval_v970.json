@@ -1,0 +1,22 @@
+{
+ "split": "data_built/x3.jsonl",
+ "n": 155,
+ "clean": 104,
+ "rules": "rules-2.7",
+ "strict": {
+  "P": 0.962,
+  "R": 0.926,
+  "F05": 0.954,
+  "tp": 50,
+  "fp": 2,
+  "fn": 4
+ },
+ "combined": {
+  "P": 0.964,
+  "R": 1,
+  "F05": 0.971
+ },
+ "FA": 0,
+ "lat_p50_ms": 0,
+ "lat_p90_ms": 1
+}

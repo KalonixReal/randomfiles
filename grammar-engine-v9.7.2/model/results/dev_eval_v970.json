@@ -1,0 +1,22 @@
+{
+ "split": "data_built/dev.jsonl",
+ "n": 251,
+ "clean": 140,
+ "rules": "rules-2.7",
+ "strict": {
+  "P": 0.922,
+  "R": 0.946,
+  "F05": 0.927,
+  "tp": 106,
+  "fp": 9,
+  "fn": 6
+ },
+ "combined": {
+  "P": 0.922,
+  "R": 0.955,
+  "F05": 0.929
+ },
+ "FA": 0,
+ "lat_p50_ms": 0,
+ "lat_p90_ms": 1
+}

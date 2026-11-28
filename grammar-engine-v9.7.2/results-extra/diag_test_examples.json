@@ -1,0 +1,92 @@
+[
+ {
+  "text": "them sausages were the best Ive had in ages.",
+  "origin": "authored",
+  "span": "Ive",
+  "rep": "I've",
+  "key": "undefined|",
+  "start": 28,
+  "end": 31,
+  "msg": "This contraction needs an apostrophe."
+ },
+ {
+  "text": "that new café does the flat whites, aye.",
+  "origin": "authored",
+  "span": "t",
+  "rep": "T",
+  "key": "undefined|",
+  "start": 0,
+  "end": 1,
+  "msg": "Capitalisation."
+ },
+ {
+  "text": "no worries at all, see yous on the Saturday.",
+  "origin": "authored",
+  "span": "n",
+  "rep": "N",
+  "key": "undefined|",
+  "start": 0,
+  "end": 1,
+  "msg": "Capitalisation."
+ },
+ {
+  "text": "The committee have not yet reached an agreement on the budget.",
+  "origin": "authored",
+  "span": "an",
+  "rep": "a",
+  "key": "undefined|",
+  "start": 35,
+  "end": 37,
+  "msg": "Contextual grammar suggestion (neural model)."
+ },
+ {
+  "text": "My trousers are finally back from the tailor.",
+  "origin": "authored-clean",
+  "span": "are",
+  "rep": "is",
+  "key": "undefined|",
+  "start": 12,
+  "end": 15,
+  "msg": "Contextual grammar suggestion (neural model)."
+ },
+ {
+  "text": "Which candidate did you vote for?",
+  "origin": "authored-clean",
+  "span": "Which candidate did",
+  "rep": "Which did candidate ",
+  "key": "undefined|",
+  "start": 0,
+  "end": 19,
+  "msg": "Question word order: auxiliary before subject."
+ },
+ {
+  "text": "Seldom have we seen such a close final.",
+  "origin": "authored-clean",
+  "span": "seen",
+  "rep": "saw",
+  "key": "undefined|",
+  "start": 15,
+  "end": 19,
+  "msg": "The verb form is not correct here."
+ },
+ {
+  "text": "The variable kPoints holds the k-d tree.",
+  "origin": "authored-clean",
+  "span": "holds",
+  "rep": "hold",
+  "key": "undefined|",
+  "start": 21,
+  "end": 26,
+  "msg": "The verb does not agree with its subject."
+ },
+ {
+  "text": "Ask at the i-SITE for track conditions.",
+  "origin": "authored-clean",
+  "span": "i",
+  "rep": "I",
+  "key": "undefined|",
+  "start": 11,
+  "end": 12,
+  "msg": "Capitalisation."
+ }
+]

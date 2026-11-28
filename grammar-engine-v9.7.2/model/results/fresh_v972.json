@@ -1,0 +1,45 @@
+{
+ "label": "v972",
+ "html": "notepad-v9.7.2-grammar.html",
+ "rules": "rules-2.9",
+ "veto": null,
+ "split": "data_built/fresh.jsonl",
+ "n": 115,
+ "errors": 50,
+ "clean": 65,
+ "sentence": {
+  "recall": 1,
+  "FA": 0,
+  "P": 1,
+  "F05": 1,
+  "detected": 50,
+  "cleanFlagged": 0
+ },
+ "strict": {
+  "P": 0.88,
+  "R": 0.88,
+  "F05": 0.88,
+  "tp": 44,
+  "fp": 6,
+  "fn": 6
+ },
+ "byGenre": {
+  "email": {
+   "n": 25,
+   "det": 25,
+   "fp": 0
+  },
+  "essay": {
+   "n": 25,
+   "det": 25,
+   "fp": 0
+  },
+  "clean-prose": {
+   "n": 65,
+   "det": 0,
+   "fp": 0
+  }
+ },
+ "flaggedClean": [],
+ "missedErrors": []
+}

@@ -1,0 +1,81 @@
+{
+ "label": "v971_veto",
+ "html": "notepad-v9.7.1-grammar.html",
+ "rules": "rules-2.8",
+ "veto": 0.2,
+ "split": "data_built/fresh.jsonl",
+ "n": 115,
+ "errors": 50,
+ "clean": 65,
+ "sentence": {
+  "recall": 0.3,
+  "FA": 0,
+  "P": 1,
+  "F05": 0.682,
+  "detected": 15,
+  "cleanFlagged": 0
+ },
+ "strict": {
+  "P": 0.733,
+  "R": 0.22,
+  "F05": 0.5,
+  "tp": 11,
+  "fp": 4,
+  "fn": 39
+ },
+ "byGenre": {
+  "email": {
+   "n": 25,
+   "det": 9,
+   "fp": 0
+  },
+  "essay": {
+   "n": 25,
+   "det": 6,
+   "fp": 0
+  },
+  "clean-prose": {
+   "n": 65,
+   "det": 0,
+   "fp": 0
+  }
+ },
+ "flaggedClean": [],
+ "missedErrors": [
+  "Please find the report attach to this email.",
+  "The meeting was cancelled because the manager were sick.",
+  "The client want us to finish the project by June.",
+  "Thank you for your patients during the outage.",
+  "The attachments is the signed contract.",
+  "We regret to inform you that your application has been decline.",
+  "Both proposal were rejected by the board.",
+  "We are currently experience some issues with the payment gateway.",
+  "Please note that the office will be close on Monday.",
+  "Their has been a delay in shipping your order.",
+  "I am interesting in the junior developer role.",
+  "The report which was submitted yesterday have several errors.",
+  "The training session will be hold in the boardroom.",
+  "We apologies for the inconvenience caused.",
+  "This is to inform you that the warranty on your machine expire next month.",
+  "Could you check the data and let me know if their accurate?",
+  "The main reason of the failure was poor planning.",
+  "In conclusion, the evidence suggest that the policy works.",
+  "Students which study regularly perform better in exams.",
+  "The number of participants were higher than expected.",
+  "Pollution effects the health of local residents.",
+  "The novel was wrote by a young author from Dunedin.",
+  "The experiment resulted in a significant improving in results.",
+  "Childrens spend too much time on screens.",
+  "She explained me the problem in detail.",
+  "Compared from last year, sales have doubled.",
+  "The books was borrowed from the library.",
+  "He did not went to university because of the cost.",
+  "The results of the survey was surprising.",
+  "The information were not available at the time.",
+  "The students was given a second chance to submit.",
+  "Each of the players were given a medal.",
+  "The weather in Auckland are unpredictable.",
+  "My favourite subject are history.",
+  "The essay discuss two main causes of the war."
+ ]
+}
