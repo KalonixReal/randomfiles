@@ -1,0 +1,282 @@
+[
+ {
+  "engine": "none",
+  "precision": 0.0,
+  "recall": 0.0,
+  "f05": 0.0,
+  "tp": 0,
+  "fp": 0,
+  "fn": 209,
+  "false_alert_rate": 0.0,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.0,
+  "meaning_violations": 0,
+  "adversarial_n": 89,
+  "wall_seconds": 0.0
+ },
+ {
+  "engine": "harper (raw)",
+  "precision": 0.3333333333333333,
+  "recall": 0.2571428571428571,
+  "f05": 0.3146853146853147,
+  "tp": 54,
+  "fp": 108,
+  "fn": 156,
+  "false_alert_rate": 0.17437722419928825,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.23267326732673269,
+  "meaning_violations": 13,
+  "adversarial_n": 89,
+  "wall_seconds": 0.0
+ },
+ {
+  "engine": "harper (filtered)",
+  "precision": 0.421875,
+  "recall": 0.2571428571428571,
+  "f05": 0.3739612188365651,
+  "tp": 54,
+  "fp": 74,
+  "fn": 156,
+  "false_alert_rate": 0.08540925266903915,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.23267326732673269,
+  "meaning_violations": 2,
+  "adversarial_n": 89,
+  "wall_seconds": 0.0
+ },
+ {
+  "engine": "t5",
+  "precision": 0.28306264501160094,
+  "recall": 0.583732057416268,
+  "f05": 0.3155716502845318,
+  "tp": 122,
+  "fp": 309,
+  "fn": 87,
+  "false_alert_rate": 0.4412811387900356,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.5841584158415841,
+  "meaning_violations": 29,
+  "adversarial_n": 89,
+  "per_type": {
+   "t5": [
+    94,
+    431
+   ]
+  },
+  "wall_seconds": 14.4
+ },
+ {
+  "engine": "rules",
+  "precision": 0.47115384615384615,
+  "recall": 0.23444976076555024,
+  "f05": 0.39199999999999996,
+  "tp": 49,
+  "fp": 55,
+  "fn": 160,
+  "false_alert_rate": 0.060498220640569395,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.21782178217821782,
+  "meaning_violations": 2,
+  "adversarial_n": 89,
+  "per_type": {
+   "participle": [
+    3,
+    3
+   ],
+   "sva": [
+    14,
+    28
+   ],
+   "homophone": [
+    8,
+    13
+   ],
+   "capit": [
+    1,
+    38
+   ],
+   "punct": [
+    3,
+    14
+   ],
+   "preposition": [
+    2,
+    4
+   ],
+   "dup": [
+    0,
+    3
+   ],
+   "article": [
+    0,
+    1
+   ]
+  },
+  "wall_seconds": 0.1
+ },
+ {
+  "engine": "tagger@0.5",
+  "precision": 0.2777777777777778,
+  "recall": 0.3827751196172249,
+  "f05": 0.29390154298310067,
+  "tp": 80,
+  "fp": 208,
+  "fn": 129,
+  "false_alert_rate": 0.30604982206405695,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.3613861386138614,
+  "meaning_violations": 22,
+  "adversarial_n": 89,
+  "wall_seconds": 1.9
+ },
+ {
+  "engine": "tagger@0.8",
+  "precision": 0.34444444444444444,
+  "recall": 0.2966507177033493,
+  "f05": 0.3336921420882669,
+  "tp": 62,
+  "fp": 118,
+  "fn": 147,
+  "false_alert_rate": 0.17793594306049823,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.27722772277227725,
+  "meaning_violations": 11,
+  "adversarial_n": 89,
+  "wall_seconds": 0.9
+ },
+ {
+  "engine": "tagger@0.9",
+  "precision": 0.4153846153846154,
+  "recall": 0.2583732057416268,
+  "f05": 0.3703703703703704,
+  "tp": 54,
+  "fp": 76,
+  "fn": 155,
+  "false_alert_rate": 0.12099644128113879,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.2376237623762376,
+  "meaning_violations": 9,
+  "adversarial_n": 89,
+  "wall_seconds": 0.8
+ },
+ {
+  "engine": "tagger@0.95",
+  "precision": 0.4666666666666667,
+  "recall": 0.23444976076555024,
+  "f05": 0.38950715421303655,
+  "tp": 49,
+  "fp": 56,
+  "fn": 160,
+  "false_alert_rate": 0.09608540925266904,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.21287128712871287,
+  "meaning_violations": 8,
+  "adversarial_n": 89,
+  "wall_seconds": 0.9
+ },
+ {
+  "engine": "tagger@0.98",
+  "precision": 0.4861111111111111,
+  "recall": 0.1674641148325359,
+  "f05": 0.35211267605633806,
+  "tp": 35,
+  "fp": 37,
+  "fn": 174,
+  "false_alert_rate": 0.06405693950177936,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.15346534653465346,
+  "meaning_violations": 3,
+  "adversarial_n": 89,
+  "wall_seconds": 0.8
+ },
+ {
+  "engine": "rules+tagger@0.9",
+  "precision": 0.37628865979381443,
+  "recall": 0.3492822966507177,
+  "f05": 0.37055837563451777,
+  "tp": 73,
+  "fp": 121,
+  "fn": 136,
+  "false_alert_rate": 0.16725978647686832,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.32673267326732675,
+  "meaning_violations": 11,
+  "adversarial_n": 89,
+  "wall_seconds": 1.0
+ },
+ {
+  "engine": "rules+tagger@0.95",
+  "precision": 0.4090909090909091,
+  "recall": 0.3444976076555024,
+  "f05": 0.39430449069003287,
+  "tp": 72,
+  "fp": 104,
+  "fn": 137,
+  "false_alert_rate": 0.1494661921708185,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.3217821782178218,
+  "meaning_violations": 10,
+  "adversarial_n": 89,
+  "wall_seconds": 0.9
+ },
+ {
+  "engine": "harper+t5 (original build)",
+  "precision": 0.2777777777777778,
+  "recall": 0.6398104265402843,
+  "f05": 0.3132250580046404,
+  "tp": 135,
+  "fp": 351,
+  "fn": 76,
+  "false_alert_rate": 0.4875444839857651,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.6287128712871287,
+  "meaning_violations": 35,
+  "adversarial_n": 89,
+  "wall_seconds": 15.6
+ },
+ {
+  "engine": "harper+filt+t5 (orig+FPfilter)",
+  "precision": 0.2903225806451613,
+  "recall": 0.6398104265402843,
+  "f05": 0.32592950265572185,
+  "tp": 135,
+  "fp": 330,
+  "fn": 76,
+  "false_alert_rate": 0.45195729537366547,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.6287128712871287,
+  "meaning_violations": 30,
+  "adversarial_n": 89,
+  "wall_seconds": 16.0
+ },
+ {
+  "engine": "harper_f+rules+tagger@0.95 (new build)",
+  "precision": 0.3739130434782609,
+  "recall": 0.4095238095238095,
+  "f05": 0.38053097345132747,
+  "tp": 86,
+  "fp": 144,
+  "fn": 124,
+  "false_alert_rate": 0.21352313167259787,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.38613861386138615,
+  "meaning_violations": 12,
+  "adversarial_n": 89,
+  "wall_seconds": 1.9
+ }
+]

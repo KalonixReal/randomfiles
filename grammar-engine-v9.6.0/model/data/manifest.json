@@ -1,0 +1,52 @@
+{
+ "calib": {
+  "count": 191,
+  "sha256": "6457fed16c9d512f53fcfcda4d090158332c0a1842e2ae3785e910052548a18a",
+  "bytes": 45299
+ },
+ "dev": {
+  "count": 251,
+  "sha256": "fe8b0a0b430594996c38a736cc91430a7d83ec8d47513edef29ef53c5ee8a73c",
+  "bytes": 62250
+ },
+ "manifest.json": {
+  "count": 52,
+  "sha256": "36e15ecfd63388eaf8a15ba5ba59d3d3a8e7c2947ebf04b8a6acf3ebd57bd6df",
+  "bytes": 1309
+ },
+ "test": {
+  "count": 483,
+  "sha256": "785b4a6931699a1aae9be8df5bb8610c7c9550da5383109b8e57fecddcc2f488",
+  "bytes": 122865
+ },
+ "train": {
+  "count": 34801,
+  "sha256": "6260c9f2da551b2d8034ad7a7293024ec686ad674a09460d43e7768519a37458",
+  "bytes": 8955109
+ },
+ "train_aug": {
+  "count": 480,
+  "sha256": "4723b168eed699072db883ba22d114e1b2f96bde94edb3b04622198bda370d97",
+  "bytes": 134978
+ },
+ "u1_clean": {
+  "count": 135,
+  "sha256": "556983e3cfa6cbd6d7e1626f8279ab118b3648fbdac2e5cf3d0d5776351b3eda",
+  "bytes": 20124
+ },
+ "x2": {
+  "count": 170,
+  "sha256": "58722ce078a1e4220bef51ef334fd63da547b15c356ebb3e08aa307bbd5429dc",
+  "bytes": 33768
+ },
+ "x2_clean": {
+  "count": 96,
+  "sha256": "1c0a3d637dbe2588136ba7a3c51e8ac9d07306f63914dfc5f941bd4f82fb6302",
+  "bytes": 14682
+ },
+ "x2_errors": {
+  "count": 74,
+  "sha256": "fe78d4c682c36b48cf6cf91a97da0de0ebd0a6d3b47751f837309ee2ffb4acf6",
+  "bytes": 19086
+ }
+}

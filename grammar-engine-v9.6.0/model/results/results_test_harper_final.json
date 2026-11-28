@@ -1,0 +1,32 @@
+[
+ {
+  "engine": "harper (raw) [final-run]",
+  "precision": 0.3333333333333333,
+  "recall": 0.2571428571428571,
+  "f05": 0.3146853146853147,
+  "tp": 54,
+  "fp": 108,
+  "fn": 156,
+  "false_alert_rate": 0.17437722419928825,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.23267326732673269,
+  "meaning_violations": 13,
+  "adversarial_n": 89
+ },
+ {
+  "engine": "harper (filtered) [final-run]",
+  "precision": 0.5,
+  "recall": 0.21904761904761905,
+  "f05": 0.397923875432526,
+  "tp": 46,
+  "fp": 46,
+  "fn": 164,
+  "false_alert_rate": 0.042704626334519574,
+  "clean_n": 281,
+  "err_n": 202,
+  "fully_corrected": 0.21287128712871287,
+  "meaning_violations": 2,
+  "adversarial_n": 89
+ }
+]

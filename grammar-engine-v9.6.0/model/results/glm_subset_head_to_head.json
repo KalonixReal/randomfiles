@@ -1,0 +1,24 @@
+{
+ "basis": "same 157-sentence subset of the final test split, identical equivalent-effect scorer",
+ "SHIPPED_v950": {
+  "P": 0.687,
+  "R": 0.594,
+  "F05": 0.666,
+  "clean_flag_rate": 0.076,
+  "meaning_violations": 0
+ },
+ "GLM_standard": {
+  "P": 0.562,
+  "R": 0.708,
+  "F05": 0.586,
+  "F1": 0.627,
+  "clean_flag_rate": 0.242
+ },
+ "GLM_careful": {
+  "P": 0.578,
+  "R": 0.698,
+  "F05": 0.598,
+  "F1": 0.632,
+  "clean_flag_rate": 0.242
+ }
+}

@@ -1,0 +1,28 @@
+[
+ {
+  "engine": "js-engine (rules+tagger@0.98)",
+  "P": 0.556,
+  "R": 0.354,
+  "F05": 0.499,
+  "tp": 74,
+  "fp": 59,
+  "fn": 135,
+  "FA": 0.075,
+  "MV": 4,
+  "adv": 89,
+  "ms_per_sentence": 11.4
+ },
+ {
+  "engine": "js-rules-only",
+  "P": 0.675,
+  "R": 0.268,
+  "F05": 0.518,
+  "tp": 56,
+  "fp": 27,
+  "fn": 153,
+  "FA": 0.011,
+  "MV": 1,
+  "adv": 89,
+  "ms_per_sentence": 0
+ }
+]

@@ -1,0 +1,30 @@
+{
+ "P": 0.765625,
+ "R": 0.620253164556962,
+ "F05": 0.7313432835820894,
+ "tp": 49,
+ "fp": 15,
+ "fn": 30,
+ "clean": 97,
+ "cleanFlagged": 3,
+ "flaggedExamples": [
+  {
+   "text": "What time did the meeting finish, in the end?",
+   "findings": [
+    "What time did->What did time  (Engine94:rule:wh_front_missing)"
+   ]
+  },
+  {
+   "text": "Our hypothesis was only partly supported by the data.",
+   "findings": [
+    "was->were (Engine94:rule:plural_subj_be)"
+   ]
+  },
+  {
+   "text": "Each of the winners receives a certificate and a small prize.",
+   "findings": [
+    "receives->receive (Engine94:rule:sva_noun_plur_3sg)"
+   ]
+  }
+ ]
+}

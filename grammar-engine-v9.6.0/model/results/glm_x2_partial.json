@@ -1,0 +1,22 @@
+{
+ "prompt": "careful",
+ "n": 93,
+ "P": 0.83,
+ "R": 0.975,
+ "F05": 0.855,
+ "F1": 0.897,
+ "tp": 39,
+ "fp": 8,
+ "fn": 1,
+ "clean_flag_rate": 0.13,
+ "n_clean": 54,
+ "per_cat": {
+  "authored": {
+   "tp": 39,
+   "fn": 1
+  }
+ },
+ "completed": 93,
+ "total": 170,
+ "partial": true
+}

@@ -1,0 +1,62 @@
+{
+ "notepad-v9.6.0-grammar.html": {
+  "sha256": "07c6b668396d80b5b93c78ad1913e8cf91c1345463ca4070330cea233cbb8dbb",
+  "bytes": 8607457
+ },
+ "engine94.js": {
+  "sha256": "e0becc954f1d608db1b13dd97b240ae7a20748f9350a74ec6d1175c7a6123e3e",
+  "bytes": 23140
+ },
+ "rules2.json": {
+  "sha256": "b7ca789dec14f03112729f27417042c834406ac34d7e6a380a79b4ad7470b0f3",
+  "bytes": 154682
+ },
+ "engine94_data.json": {
+  "sha256": "4624b9e2030879e63b69ec4040f34c2061068ad32801c00da99747830a6e7afb",
+  "bytes": 358221
+ },
+ "engine94_rules.json": {
+  "sha256": "e4e58a5c37f3b5951fd941acad0af5f7b5d2692745d4670a99c0f03c425d4a9f",
+  "bytes": 120703
+ },
+ "engine94_weights.b64": {
+  "sha256": "1d4d7dd9d032cf20233d02de156e81633018a5f567deb6bd05415148a5858ee7",
+  "bytes": 2049980
+ },
+ "checkpoints/gru3_best.pt": {
+  "sha256": "c8fedb11562a69df6f6fac5d2aed7c1380e7d4b2875134b063b5f9c526dbff05",
+  "bytes": 18620083
+ },
+ "checkpoints/gru3_best.json": {
+  "sha256": "8cdd41776334ae69d53bdc55a5e1d4df3ef10b272f79517471b8aa8db4b69e70",
+  "bytes": 327
+ },
+ "data/train.jsonl": {
+  "sha256": "6260c9f2da551b2d8034ad7a7293024ec686ad674a09460d43e7768519a37458",
+  "bytes": 8955109
+ },
+ "data/dev.jsonl": {
+  "sha256": "fe8b0a0b430594996c38a736cc91430a7d83ec8d47513edef29ef53c5ee8a73c",
+  "bytes": 62250
+ },
+ "data/calib.jsonl": {
+  "sha256": "6457fed16c9d512f53fcfcda4d090158332c0a1842e2ae3785e910052548a18a",
+  "bytes": 45299
+ },
+ "data/test.jsonl": {
+  "sha256": "785b4a6931699a1aae9be8df5bb8610c7c9550da5383109b8e57fecddcc2f488",
+  "bytes": 122865
+ },
+ "data/x2.jsonl": {
+  "sha256": "58722ce078a1e4220bef51ef334fd63da547b15c356ebb3e08aa307bbd5429dc",
+  "bytes": 33768
+ },
+ "data/u1_clean.jsonl": {
+  "sha256": "556983e3cfa6cbd6d7e1626f8279ab118b3648fbdac2e5cf3d0d5776351b3eda",
+  "bytes": 20124
+ },
+ "data/train_aug.jsonl": {
+  "sha256": "4723b168eed699072db883ba22d114e1b2f96bde94edb3b04622198bda370d97",
+  "bytes": 134978
+ }
+}
