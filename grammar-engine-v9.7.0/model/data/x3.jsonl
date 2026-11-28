@@ -1,0 +1,155 @@
+{"text": "The principal have approved the new timetable.", "clean": "The principal has approved the new timetable.", "edits": [{"start": 14, "end": 18, "orig": "have", "rep": "has", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The players trains every Tuesday morning.", "clean": "The players train every Tuesday morning.", "edits": [{"start": 12, "end": 18, "orig": "trains", "rep": "train", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The children was collected at the gate by the aides.", "clean": "The children were collected at the gate by the aides.", "edits": [{"start": 13, "end": 16, "orig": "was", "rep": "were", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "There is several stalls at the market this weekend.", "clean": "There are several stalls at the market this weekend.", "edits": [{"start": 6, "end": 8, "orig": "is", "rep": "are", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The warehouse were locked over the holidays.", "clean": "The warehouse was locked over the holidays.", "edits": [{"start": 14, "end": 18, "orig": "were", "rep": "was", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "She has wrote a letter to the board.", "clean": "She has written a letter to the board.", "edits": [{"start": 8, "end": 13, "orig": "wrote", "rep": "written", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The parcel was send to the old address.", "clean": "The parcel was sent to the old address.", "edits": [{"start": 15, "end": 19, "orig": "send", "rep": "sent", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Did you went to the open day in Hamilton?", "clean": "Did you go to the open day in Hamilton?", "edits": [{"start": 8, "end": 12, "orig": "went", "rep": "go", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Did she took the minutes at the hui?", "clean": "Did she take the minutes at the hui?", "edits": [{"start": 8, "end": 12, "orig": "took", "rep": "take", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "He had ate all the kai before we arrived.", "clean": "He had eaten all the kai before we arrived.", "edits": [{"start": 7, "end": 10, "orig": "ate", "rep": "eaten", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Where does the trail ends?", "clean": "Where does the trail end?", "edits": [{"start": 21, "end": 25, "orig": "ends", "rep": "end", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "What time does the movie starts tonight?", "clean": "What time does the movie start tonight?", "edits": [{"start": 25, "end": 31, "orig": "starts", "rep": "start", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "My cousins bike needs new tyres.", "clean": "My cousin's bike needs new tyres.", "edits": [{"start": 3, "end": 10, "orig": "cousins", "rep": "cousin's", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The dentists chair reclined fully.", "clean": "The dentist's chair reclined fully.", "edits": [{"start": 4, "end": 12, "orig": "dentists", "rep": "dentist's", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The cats been indoors since lunch.", "clean": "The cat's been indoors since lunch.", "edits": [{"start": 4, "end": 8, "orig": "cats", "rep": "cat's", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The team will call when its finished.", "clean": "The team will call when it's finished.", "edits": [{"start": 24, "end": 27, "orig": "its", "rep": "it's", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Its a pity about the weather.", "clean": "It's a pity about the weather.", "edits": [{"start": 0, "end": 3, "orig": "Its", "rep": "It's", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "This route is more shorter than the highway.", "clean": "This route is shorter than the highway.", "edits": [{"start": 14, "end": 19, "orig": "more ", "rep": "", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "That was the most worst decision of the season.", "clean": "That was the worst decision of the season.", "edits": [{"start": 13, "end": 18, "orig": "most ", "rep": "", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Everyone in the choir were given a hymn book.", "clean": "Everyone in the choir was given a hymn book.", "edits": [{"start": 22, "end": 26, "orig": "were", "rep": "was", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Nobody on the committee have read the brief.", "clean": "Nobody on the committee has read the brief.", "edits": [{"start": 24, "end": 28, "orig": "have", "rep": "has", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The box of parts were left in the shed.", "clean": "The box of parts was left in the shed.", "edits": [{"start": 17, "end": 21, "orig": "were", "rep": "was", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "I am agree with the recommendation.", "clean": "I agree with the recommendation.", "edits": [{"start": 2, "end": 5, "orig": "am ", "rep": "", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "We did a mistake with the catering order.", "clean": "We made a mistake with the catering order.", "edits": [{"start": 3, "end": 6, "orig": "did", "rep": "made", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The manager explained us the new rostering process.", "clean": "The manager explained to us the new rostering process.", "edits": [{"start": 22, "end": 22, "orig": "", "rep": "to ", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The inspector will visit on next Tuesday.", "clean": "The inspector will visit next Tuesday.", "edits": [{"start": 25, "end": 28, "orig": "on ", "rep": "", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Are you free on tomorrow for the site walk?", "clean": "Are you free tomorrow for the site walk?", "edits": [{"start": 13, "end": 16, "orig": "on ", "rep": "", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The both essays argued the same point.", "clean": "Both essays argued the same point.", "edits": [{"start": 0, "end": 8, "orig": "The both", "rep": "Both", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Almost students failed the first quiz.", "clean": "Almost everyone failed the first quiz.", "edits": [{"start": 7, "end": 15, "orig": "students", "rep": "everyone", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Try not to loose your place in the queue.", "clean": "Try not to lose your place in the queue.", "edits": [{"start": 11, "end": 16, "orig": "loose", "rep": "lose", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Please be quite while the notices are read.", "clean": "Please be quiet while the notices are read.", "edits": [{"start": 10, "end": 15, "orig": "quite", "rep": "quiet", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "She asked why was he late this morning.", "clean": "She asked why he was late this morning.", "edits": [{"start": 14, "end": 14, "orig": "", "rep": "he ", "type": "authored"}, {"start": 18, "end": 21, "orig": "he ", "rep": "", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Me and Tama are running the sausage sizzle.", "clean": "Tama and I are running the sausage sizzle.", "edits": [{"start": 0, "end": 2, "orig": "Me", "rep": "Tama", "type": "authored"}, {"start": 7, "end": 11, "orig": "Tama", "rep": "I", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The bus arrives to the depot at six.", "clean": "The bus arrives at the depot at six.", "edits": [{"start": 16, "end": 18, "orig": "to", "rep": "at", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "It depends of the funding round.", "clean": "It depends on the funding round.", "edits": [{"start": 11, "end": 13, "orig": "of", "rep": "on", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "She is interested about the nursing course.", "clean": "She is interested in the nursing course.", "edits": [{"start": 18, "end": 23, "orig": "about", "rep": "in", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "She ate a apple before the game.", "clean": "She ate an apple before the game.", "edits": [{"start": 8, "end": 9, "orig": "a", "rep": "an", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "We waited for a hour outside the hall.", "clean": "We waited for an hour outside the hall.", "edits": [{"start": 14, "end": 15, "orig": "a", "rep": "an", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The storm had a big affect on the roof.", "clean": "The storm had a big effect on the roof.", "edits": [{"start": 20, "end": 26, "orig": "affect", "rep": "effect", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Your welcome to stay for dinner.", "clean": "You're welcome to stay for dinner.", "edits": [{"start": 0, "end": 4, "orig": "Your", "rep": "You're", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "We walked passed the statue in the square.", "clean": "We walked past the statue in the square.", "edits": [{"start": 10, "end": 16, "orig": "passed", "rep": "past", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Their arriving on the red-eye flight.", "clean": "They're arriving on the red-eye flight.", "edits": [{"start": 0, "end": 5, "orig": "Their", "rep": "They're", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Dont leave the gate open at dusk.", "clean": "Don't leave the gate open at dusk.", "edits": [{"start": 0, "end": 4, "orig": "Dont", "rep": "Don't", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "Were going to the pools after school.", "clean": "We're going to the pools after school.", "edits": [{"start": 0, "end": 4, "orig": "Were", "rep": "We're", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "The accomodation was basic but warm.", "clean": "The accommodation was basic but warm.", "edits": [{"start": 4, "end": 16, "orig": "accomodation", "rep": "accommodation", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "They recieved the forms on Friday.", "clean": "They received the forms on Friday.", "edits": [{"start": 5, "end": 13, "orig": "recieved", "rep": "received", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "He gave me several advices about the wiring.", "clean": "He gave me several pieces of advice about the wiring.", "edits": [{"start": 19, "end": 26, "orig": "advices", "rep": "pieces of advice", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "You should of booked earlier for the ferry.", "clean": "You should have booked earlier for the ferry.", "edits": [{"start": 11, "end": 13, "orig": "of", "rep": "have", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "I am study at the polytech this year.", "clean": "I am studying at the polytech this year.", "edits": [{"start": 5, "end": 10, "orig": "study", "rep": "studying", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "i think the kōrero went well today.", "clean": "I think the kōrero went well today.", "edits": [{"start": 0, "end": 1, "orig": "i", "rep": "I", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "What time the shop opens on Saturdays?", "clean": "What time does the shop open on Saturdays?", "edits": [{"start": 10, "end": 10, "orig": "", "rep": "does ", "type": "authored"}, {"start": 19, "end": 24, "orig": "opens", "rep": "open", "type": "authored"}], "cats": ["error"], "origin": "authored-error", "group": "X3"}
+{"text": "We will arrange the marquee before the guests arrive.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The queue at the bakery stretched past the door this morning.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Her grey mare was shod by the farrier on Thursday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The tui called from the kōwhai outside the kitchen window.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "He practised the guitar until the neighbours complained.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Our flight from Wellington was delayed by fog.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The accountant filed the returns before the deadline.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She colour-coded the spreadsheet by department.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "They bottled the plum sauce in the garage last summer.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The wharf was busy with cray boats at dawn.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Our teacher has taught at the kura for fifteen years.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The mower left stripes across the front lawn.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Both candidates spoke at the community meeting.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "We caught the ferry to Waiheke on the nine o'clock sailing.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The dog barked at the postie and then went back to sleep.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Her mother travelled through the centre of Dunedin on the bus.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The committee has reached a unanimous decision on the plan.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Everyone in the team has signed the card for Matiu.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The chassis was badly rusted under the wheel arches.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Linguistics is a demanding but rewarding field.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Maths was my favourite subject in the sixth form.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Seldom have we seen such a close final at the basin.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "It is I who am to blame for the mix-up.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She sometimes seems distracted during the afternoon sessions.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The police have cordoned off the area near the slip.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "What time does the last train leave for Picton?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Which candidate did you vote for in the by-election?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "A couple of the boxes were damaged in transit.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The set of keys was found in the letterbox.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The number of applicants has doubled since last year.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The majority of voters were under forty at the last census.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The group of tourists was waiting at the gate.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "There is some loose change in the drawer by the door.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The bolt came loose after the long vibration test.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She was quite honest about the risks involved.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "I'll be quite candid: the margins are thin this quarter.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The manager explained the process to us in plain language.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Can you explain them in simple words for the class?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The teacher explained the rule twice before we understood.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "It was agreed that the merger would proceed in stages.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "It was agreed by both parties at the mediation.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The terms were agreed between the union and the council.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Almost all the passengers were on board by six.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Almost nobody was injured in the collision.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Let's check in next week once the scaffolding is down.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The results are due on this coming Friday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She was born in the last week of March.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The loose change in the tin added up to forty dollars.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Both essays argued the same point about the treaty text.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Everyone in the village who was evacuated has returned home.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Everything in the boxes was labelled and dated.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Something in the engine was making a strange noise.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The project kept its due date despite the outage.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The committee published its findings last month.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The cat licked its paws and went back to sleep.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "What does the machine do when the train leaves?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "How does the panel decide which option works best?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The teachers in the senior syndicate met after school.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The team have won every match this season so far.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Her flight arrives at midnight on the red-eye service.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "We did the mistake analysis after the outage last year.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She made a note of every fault the inspectors found.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The revised budget was sent to the committee yesterday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "I look forward to receiving your reply before Friday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The accommodation was basic but warm enough for the night.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "They received the forms on Friday and signed them Monday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Try not to lose your place in the queue at the counter.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Please be quiet while the notices are being read.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She asked why he was late again this morning.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Tama and I are running the sausage sizzle on Saturday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The bus arrives at the depot at six sharp.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "It depends on the funding round in April.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She is interested in the nursing course at the polytech.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She ate an apple before the game on Saturday.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "We waited an hour outside the town hall.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The storm had a big effect on the roof of the shed.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "You're welcome to stay for dinner if you like.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "We walked past the statue in the square.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "They're arriving on the late ferry tonight.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Don't leave the gate open at dusk.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "We're going to the pools after school tomorrow.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The dog's been outside for hours without a bark.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "It's a pity about the weather for the picnic.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "I am studying at the polytech this year.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "I think the kōrero went well today.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Everyone in the choir was given a hymn book.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Nobody on the committee has read the brief yet.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "He explained the problem to me twice before I understood.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The box of parts was left in the shed overnight.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "This route is shorter than the highway in the mornings.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "That was the worst decision of the season, we all agreed.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The player's boots were caked in mud after the game.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "My cousin's bike needs new tyres before the rail trail.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Where does the trail end at the Kaitoke car park?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "What time does the movie start tonight at the Regent?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Did you go to the open day in Hamilton last week?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "Did she take the minutes at the hui on Tuesday?", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "He had eaten all the kai before we arrived.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "She has written a letter to the board about the uniforms.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The principal has approved the new timetable for term three.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The players train every Tuesday morning before work.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The children were collected at the gate by the teacher aides.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "There are several stalls at the market this weekend.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}
+{"text": "The warehouse was locked over the holidays.", "edits": [], "cats": ["clean"], "origin": "authored-natural-holdout", "group": "X3"}

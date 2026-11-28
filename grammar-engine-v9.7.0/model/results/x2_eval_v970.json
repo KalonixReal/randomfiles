@@ -1,0 +1,22 @@
+{
+ "split": "data_built/x2.jsonl",
+ "n": 170,
+ "clean": 97,
+ "rules": "rules-2.7",
+ "strict": {
+  "P": 0.921,
+  "R": 0.886,
+  "F05": 0.914,
+  "tp": 70,
+  "fp": 6,
+  "fn": 9
+ },
+ "combined": {
+  "P": 0.927,
+  "R": 0.962,
+  "F05": 0.934
+ },
+ "FA": 0,
+ "lat_p50_ms": 0,
+ "lat_p90_ms": 1
+}
